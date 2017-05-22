@@ -1,0 +1,6399 @@
+Text[
+
+
+
+
+]
+Text[
+
+	
+	
+
+
+
+
+
+
+
+]
+StartTag - tagName[html], tagAttr[lang], tagAttrVal[ko] moreAttr[false]
+Text[
+]
+StartTag - tagName[head], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+
+
+
+	
+		]
+StartTag - tagName[title], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[KODEX ±â°èÀåºñ : ³×ÀÌ¹ö ±ÝÀ¶]
+EndTag[</title>]
+Text[
+	
+	
+
+
+
+]
+StartTag - tagName[meta], tagAttr[http-equiv], tagAttrVal[Content-Type] moreAttr[true]
+StartTag - tagName[meta], tagAttr[content], tagAttrVal[text/html; charset=euc-kr] moreAttr[false]
+Text[
+]
+StartTag - tagName[meta], tagAttr[http-equiv], tagAttrVal[Content-Script-Type] moreAttr[true]
+StartTag - tagName[meta], tagAttr[content], tagAttrVal[text/javascript] moreAttr[false]
+Text[
+]
+StartTag - tagName[meta], tagAttr[http-equiv], tagAttrVal[Content-Style-Type] moreAttr[true]
+StartTag - tagName[meta], tagAttr[content], tagAttrVal[text/css] moreAttr[false]
+Text[
+
+
+
+	
+		]
+Text[
+		]
+Text[
+		]
+Text[
+		]
+Text[
+    
+    
+
+]
+Text[
+]
+Text[ 
+]
+Text[
+]
+Text[
+
+
+
+
+
+]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[stylesheet] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[text/css] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://finance.naver.com/css/finance_header.css?20170512071624] moreAttr[false]
+Text[
+
+	
+	
+	
+	
+		]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[stylesheet] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[text/css] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://finance.naver.com/css/newstock.css?20170512071624] moreAttr[false]
+Text[
+		]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[stylesheet] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[text/css] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://finance.naver.com/css/common.css?20170512071624] moreAttr[false]
+Text[
+		]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[stylesheet] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[text/css] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://finance.naver.com/css/layout.css?20170512071624] moreAttr[false]
+Text[
+		]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[stylesheet] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[text/css] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://finance.naver.com/css/main.css?20170512071624] moreAttr[false]
+Text[
+		]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[stylesheet] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[text/css] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://finance.naver.com/css/newstock2.css?20170512071624] moreAttr[false]
+Text[
+		]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[stylesheet] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[text/css] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://finance.naver.com/css/newstock3.css?20170512071624] moreAttr[false]
+Text[
+		]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[stylesheet] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[text/css] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://finance.naver.com/css/world.css?20170512071624] moreAttr[false]
+Text[
+		
+		
+		
+			]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[/js/jindo.min.ns.1.5.3.euckr.js?20170512071624] moreAttr[false]
+EndTag[</script>]
+Text[
+			
+			
+				]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[/js/release/common.js?20170512071624] moreAttr[false]
+EndTag[</script>]
+Text[
+			
+			
+			]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[/js/jindoComponent/jindo.Component.1.0.3.js?20170512071624] moreAttr[false]
+EndTag[</script>]
+Text[
+			]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[/ac/nhn.autocomplete.stock.js?20170512071624] moreAttr[false]
+EndTag[</script>]
+Text[
+		
+		
+	
+
+
+	]
+StartTag - tagName[link], tagAttr[rel], tagAttrVal[shortcut icon] moreAttr[true]
+StartTag - tagName[link], tagAttr[href], tagAttrVal[http://www.naver.com/favicon.ico?20170512071624] moreAttr[true]
+StartTag - tagName[link], tagAttr[type], tagAttrVal[image/x-icon] moreAttr[false]
+Text[
+	
+	]
+StartTag - tagName[script], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+    (function(){
+        var sUserAgent = navigator.userAgent;
+        if(/iPhone|iPad/.test(sUserAgent)){
+            document.write(
+                [
+                    &#39;&lt;link rel=&#34;apple-touch-icon-precomposed&#34; href=&#34;http://static.naver.net/nfinance/ico/iOS6_57X57_iphone3.png&#34;/&gt;&#39;,
+                    &#39;&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;72x72&#34; href=&#34;http://static.naver.net/nfinance/ico/iOS6_72X72_ipad.png&#34; /&gt;&#39;,
+                    &#39;&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;76x76&#34; href=&#34;http://static.naver.net/nfinance/ico/iOS7_76X76_ipad.png&#34; /&gt;&#39;,
+                    &#39;&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;114x114&#34; href=&#34;http://static.naver.net/nfinance/ico/iOS6_114X114_iphone4.png&#34; /&gt;&#39;,
+                    &#39;&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;120x120&#34; href=&#34;http://static.naver.net/nfinance/ico/iOS7_120X120_iphone.png&#34; /&gt;&#39;,
+                    &#39;&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;144x144&#34; href=&#34;http://static.naver.net/nfinance/ico/iOS6_144X144_ipad_retina.png&#34; /&gt;&#39;,
+                    &#39;&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;152x152&#34; href=&#34;http://static.naver.net/nfinance/ico/iOS7_152X152_ipad_retina.png&#34; /&gt;&#39;
+                ]
+                .join(&#39;\n&#39;)
+            );
+        }
+        
+        if(/Android/.test(sUserAgent)){
+            document.write(&#39;&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;192x192&#34; href=&#34;http://static.naver.net/nfinance/ico/android_192x192_xxxhpdi.png&#34;/&gt;&#39;);
+        }
+    })();
+    ]
+EndTag[</script>]
+Text[
+]
+EndTag[</head>]
+Text[
+
+
+
+
+]
+StartTag - tagName[body], tagAttr[onload], tagAttrVal[getGNB();] moreAttr[false]
+Text[
+
+
+
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[false]
+Text[
+	document.domain = &#39;naver.com&#39;;
+	var nclk_evt = 3;
+	nclk_do();
+]
+EndTag[</script>]
+Text[
+	
+
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[false]
+Text[
+
+
+
+
+
+
+
+var nsc=&#34;finance.stockend&#34;;
+
+
+var ccsrv=&#34;cc.naver.com&#34;;
+
+
+	
+	
+	var gnb_service=&#39;finance&#39;;
+	
+
+
+var gnb_logout=document.URL; //GNB¿¡¼­ ·Î±×¾Æ¿ô ÈÄ redirect µÉ URL
+var gnb_template=&#39;gnb_common_euckr_quirk&#39;; //»ç¿ëÇÏ°í ÀÖ´Â ÅÛÇÃ¸´ ¸í
+var gnb_searchbox=&#39;off&#39;; //¹Ì´Ï °Ë»öÃ¢À» on ÇÒÁö off ÇÒÁö. default´Â off
+var gnb_shortnick=&#39;off&#39;; //´Ð³×ÀÓ ¸»ÁÙÀÓ(10ÀÚ)À» onÇÒÁö off ÇÒÁö. default´Â off.
+
+var gnb_naverme_layer_open_callback = function(){
+	   var naverLayerSize = gnbNaverMeLayer.getLayerSize();
+		
+		var me_layers = document.getElementById(&#34;me_layers&#34;); 
+		me_layers.width=naverLayerSize.width;
+		me_layers.height=naverLayerSize.height;}; 
+
+var gnb_naverme_layer_close_callback = function(){
+		 
+			var me_layers = document.getElementById(&#34;me_layers&#34;); 
+			me_layers.width=&#34;0&#34;;
+			me_layers.height=&#34;0&#34;;}; 
+]
+EndTag[</script>]
+Text[
+
+
+
+	
+		]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#middle] moreAttr[false]
+Text[¸Þ´º°Ç³Ê¶Ù°í º»¹® ¹Ù·Î°¡±â]
+EndTag[</a>]
+EndTag[</div>]
+Text[
+	
+	
+
+
+
+]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[header] moreAttr[false]
+Text[
+	]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[snb_area] moreAttr[false]
+Text[
+		]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[snb_inner] moreAttr[false]
+Text[
+			]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[gnb_area] moreAttr[false]
+Text[
+				]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[gnb] moreAttr[false]
+Text[
+					]
+StartTag - tagName[script], tagAttr[charset], tagAttrVal[EUC-KR] moreAttr[true]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[false]
+Text[
+					var gnb_service = &#34;gnbtest&#34;;
+					var gnb_template = &#34;gnb_quirks_euckr&#34;;
+					var gnb_dark = false;
+					var gnb_brightness = 1;
+					var gnb_logout=encodeURIComponent(location.href);
+					var gnb_one_naver = 1;
+					]
+EndTag[</script>]
+Text[
+					]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://static.gn.naver.net/template/gnb_quirks_euckr.nhn?20170520] moreAttr[false]
+Text[
+					]
+EndTag[</script>]
+Text[
+				]
+EndTag[</div>]
+Text[
+			]
+EndTag[</div>]
+Text[
+	 
+			]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[sta] moreAttr[false]
+Text[
+				]
+StartTag - tagName[h1], tagAttr[class], tagAttrVal[logo] moreAttr[false]
+Text[ ]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://www.naver.com/] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[logo_naver] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'STA.naver', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[³×ÀÌ¹ö]
+EndTag[</span>]
+EndTag[</a>]
+Text[
+				]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[logo_service] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'STA.finance', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[±ÝÀ¶]
+EndTag[</span>]
+EndTag[</a>]
+Text[ ]
+EndTag[</h1>]
+Text[
+				]
+StartTag - tagName[form], tagAttr[name], tagAttrVal[search] moreAttr[true]
+StartTag - tagName[form], tagAttr[action], tagAttrVal[http://finance.naver.com/search/search.nhn] moreAttr[true]
+StartTag - tagName[form], tagAttr[method], tagAttrVal[get] moreAttr[true]
+StartTag - tagName[form], tagAttr[onsubmit], tagAttrVal[return delayed_submit(this)] moreAttr[true]
+StartTag - tagName[form], tagAttr[style], tagAttrVal[margin:0; padding:0;] moreAttr[false]
+Text[
+				]
+StartTag - tagName[fieldset], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+					]
+StartTag - tagName[legend], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[°Ë»ö]
+EndTag[</legend>]
+Text[
+					]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[snb_search_box] moreAttr[false]
+Text[
+						]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[snb_search_box_sub] moreAttr[false]
+Text[
+							]
+StartTag - tagName[input], tagAttr[id], tagAttrVal[stock_items] moreAttr[true]
+StartTag - tagName[input], tagAttr[type], tagAttrVal[text] moreAttr[true]
+StartTag - tagName[input], tagAttr[title], tagAttrVal[°Ë»ö] moreAttr[true]
+StartTag - tagName[input], tagAttr[name], tagAttrVal[query] moreAttr[true]
+StartTag - tagName[input], tagAttr[value], tagAttrVal[Á¾¸ñ¸íÂ·ÆÝµå¸íÂ·È¯À²¸íÂ·¿øÀÚÀç¸í ÀÔ·Â] moreAttr[true]
+StartTag - tagName[input], tagAttr[accesskey], tagAttrVal[s] moreAttr[true]
+StartTag - tagName[input], tagAttr[class], tagAttrVal[snb_search_text snb_default] moreAttr[true]
+StartTag - tagName[input], tagAttr[autocomplete], tagAttrVal[off] moreAttr[false]
+Text[
+							]
+StartTag - tagName[a], tagAttr[id], tagAttrVal[nautocomplete] moreAttr[true]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[return false] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[btn_arrow] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ÀÚµ¿¿Ï¼º ÆîÄ¡±â]
+EndTag[</span>]
+EndTag[</a>]
+Text[
+						]
+EndTag[</div>]
+Text[
+						]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[auto_area] moreAttr[false]
+Text[
+							]
+StartTag - tagName[iframe], tagAttr[id], tagAttrVal[autoFrame] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[src], tagAttrVal[http://finance.naver.com/ac/reatcmp.nhn?menu=stockend&submenu=] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[scrolling], tagAttrVal[no] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[height], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[frameborder], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[width], tagAttrVal[400] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[style], tagAttrVal[display: none;] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[marginheight], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[marginwidth], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[title], tagAttrVal[ÀÚµ¿¿Ï¼º] moreAttr[false]
+EndTag[</iframe>]
+Text[
+						]
+EndTag[</div>]
+Text[
+						]
+StartTag - tagName[button], tagAttr[type], tagAttrVal[submit] moreAttr[true]
+StartTag - tagName[button], tagAttr[class], tagAttrVal[snb_search_btn] moreAttr[true]
+StartTag - tagName[button], tagAttr[onclick], tagAttrVal[clickcr(this, 'STA.search', '', '', event);] moreAttr[true]
+StartTag - tagName[button], tagAttr[alt], tagAttrVal[°Ë»ö] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[°Ë»ö]
+EndTag[</span>]
+EndTag[</button>]
+Text[
+						]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[true]
+StartTag - tagName[a], tagAttr[target], tagAttrVal[_blank] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[snb_search_btn-total] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[itegrationSearch();clickcr(this, 'STA.nx', '', '', event);return false;] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ÅëÇÕ°Ë»ö]
+EndTag[</span>]
+EndTag[</a>]
+Text[
+					]
+EndTag[</div>]
+Text[
+				]
+EndTag[</fieldset>]
+Text[
+				]
+EndTag[</form>]
+Text[
+			]
+EndTag[</div>]
+Text[
+		]
+EndTag[</div>]
+Text[
+	]
+EndTag[</div>]
+Text[
+	]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[lnb_area] moreAttr[false]
+Text[
+		]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[lnb_inner] moreAttr[false]
+Text[
+			]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[menu] moreAttr[false]
+Text[
+				]
+StartTag - tagName[ul], tagAttr[class], tagAttrVal[menu] moreAttr[false]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m1 first ] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'LNB.home', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[±ÝÀ¶ È¨]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m2 on] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'LNB.sise', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[±¹³»Áõ½Ã]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m3 ] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/world/] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'LNB.world', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ÇØ¿ÜÁõ½Ã]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m4 ] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://info.finance.naver.com/marketindex/] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'LNB.market', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[½ÃÀåÁöÇ¥]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m5 ] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://info.finance.naver.com/fund/] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'LNB.fund', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ÆÝµå]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+Text[
+						
+					]
+EndTag[</li>]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m6 ] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/research/] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'LNB.research', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ÅõÀÚÀü·«]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m7 ] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/news/] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[´º½º]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m8 ] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/mystock/] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'LNB.mystock', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[MY±ÝÀ¶]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+					]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[m9 ] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/recommendationItem] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'LNB.rec', '', '', event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tx] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ÃßÃµÁ¾¸ñ]
+EndTag[</span>]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+				]
+EndTag[</ul>]
+Text[
+			]
+EndTag[</div>]
+Text[
+			]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[search] moreAttr[false]
+Text[
+			
+				]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[debate] moreAttr[false]
+Text[
+					]
+StartTag - tagName[ul], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+						
+						
+							
+								
+									
+									
+										]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=366&article_id=0000369908] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'rec.con1', '', '', event);] moreAttr[false]
+Text[Æ®·³ÇÁ ÅºÇÙ¼³ &#39;¼Ö¼Ö&#39;...¾ÈÀüÀÚ»ê ÅõÀÚ ¸»°í ÁÖ½Ä ºñÁß ´Ã·Á¾ß]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+									
+								
+							
+						
+						
+						
+							
+								
+									
+									
+										]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=001&article_id=0009275826] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'rec.con2', '', '', event);] moreAttr[false]
+Text[&#39;ºú³» ÁÖ½ÄÅõÀÚ&#39; ±ÞÁõ¡¦10Á¶5Ãµ¾ï¿ø À°¹Ú]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+									
+								
+							
+						
+						
+						
+							
+								
+									
+									
+										]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/news/news_read.nhn?mode=LSS2D&office_id=008&article_id=0003875144] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'rec.con3', '', '', event);] moreAttr[false]
+Text[Çì¾ËÈ­ 8% Æø¶ô¡¦ºÒÆ¼³­ ºê¶óÁú±¹Ã¤ ÅõÀÚ &#39;»¡°£ºÒ&#39; ]
+EndTag[</a>]
+EndTag[</li>]
+Text[
+									
+								
+							
+						
+						
+					]
+EndTag[</ul>]
+Text[
+				]
+EndTag[</div>]
+Text[
+			
+			
+			
+			
+			]
+EndTag[</div>]
+Text[
+		]
+EndTag[</div>]
+Text[
+	]
+EndTag[</div>]
+Text[
+	
+	
+	
+	
+	
+	
+	]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/JavaScript] moreAttr[false]
+Text[
+		/* lcs Áý°è */ 
+		lcs_do();
+		
+		/* °Ë»ö ÀÚµ¿¿Ï¼º [ ÀÎÀÚ1 : °Ë»öinputÀÇ ID, ÀÎÀÚ2 : iframe ÅÂ±× ID ]   */
+		// AutoComplete »ý¼º
+		smartSearch = new nhn.Autocomplete(
+			// InputManager »ý¼º
+			new nhn.AcInputManager(jindo.$(&#34;stock_items&#34;)),
+			// DataManager »ý¼º
+			new nhn.AcDataManager(&#34;http://ac.finance.naver.com:11002/ac&#34;, &#34;jsonp&#34;, &#34;get&#34;, { 
+                    st: &#34;111&#34;, 
+                    r_lt : &#34;111&#34;, 
+                    q_enc : &#34;euc-kr&#34;, 
+                    r_enc : &#34;euc-kr&#34;, 
+                    frm: &#34;stock&#34;}), 
+			// ViewManager »ý¼º
+			new nhn.AcStockViewManager(jindo.$(&#34;autoFrame&#34;), jindo.$(&#34;nautocomplete&#34;), {  
+                                        strMax: 200, 
+                                        listMax: [7, 2, 2], 
+                                        aRedirectUrl : [
+                            			&#34;http://finance.naver.com&#34;,
+                            			&#34;http://info.finance.naver.com&#34;,
+                            			&#34;http://info.finance.naver.com&#34;]}),
+			// Autocomplete Option 
+            {formId:&#34;search&#34;, cookieDomain:&#34;finance.naver.com&#34;, cookieName:&#34;NaverCommonStock&#34;});
+		
+			smartSearch.attach({ 
+	            onFocus: function () { 
+	                var weInput = jindo.$Element(&#39;stock_items&#39;); 
+	                if (weInput &amp;&amp; weInput.hasClass(&#34;snb_default&#34;)) { 
+	                        weInput.text(&#34;&#34;); 
+	                        weInput.removeClass(&#39;snb_default&#39;); 
+	                } 
+	            } 
+	        }); 
+
+		/* ÅëÇÕ°Ë»ö  start -----&gt;  */
+		document.domain = &#39;naver.com&#39;;
+		var sSearchHintText = &#39;Á¾¸ñ¸í¡¤ÆÝµå¸í¡¤È¯À²¸í¡¤¿øÀÚÀç¸í ÀÔ·Â&#39;;
+		function itegrationSearch()
+		{
+			var query = escape(jindo.$(&#39;stock_items&#39;).value);
+			if ( query == &#39;&#39;  || query == escape(sSearchHintText))
+			{
+				alert ( &#39;°Ë»ö¾î¸¦ ÀÔ·ÂÇØ ÁÖ¼¼¿ä.&#39; );
+				return;
+			} 
+			window.open(&#39;http://search.naver.com/search.naver?sm=sta_hty.finance&amp;where=nexearch&amp;query=&#39;+query,&#39;&#39;,&#39;&#39;);
+			return false;
+		}
+					
+		function delayed_submit(object) {
+			if (navigator.userAgent.indexOf(&#39;MSIE&#39;) == -1) {
+				window.setTimeout(function() {stock_search(object)}, 300);
+			} else {
+				stock_search(object);
+			}
+			return false;
+		}
+		
+		function stock_search (object)
+		{
+			query = object.query.value.replace(/^\s*/,&#39;&#39;).replace(/\s*$/,&#39;&#39;);	// trim
+			object.query.value=query;
+			
+			if ( query == &#39;&#39; || query == sSearchHintText.replace(/^\s*/,&#39;&#39;).replace(/\s*$/,&#39;&#39;))
+			{
+				alert ( &#39;°Ë»ö¾î¸¦ ÀÔ·ÂÇØ ÁÖ¼¼¿ä.&#39; );
+				return;
+			}
+			else {
+				object.submit();
+			}
+		}
+		/* &lt;---------- ÅëÇÕ°Ë»ö  end */
+		
+		function popup()
+		{
+			win = window.open(&#39;http://finance.naver.com/template/group_limit_pop.jsp&#39;,&#39;finan_popup&#39;,&#39;width=569 height=278 scrollbars=no status=no&#39;);
+			win.focus();
+		}
+	]
+EndTag[</script>]
+Text[
+	
+	]
+StartTag - tagName[iframe], tagAttr[id], tagAttrVal[me_layers] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[name], tagAttrVal[test] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[title], tagAttrVal[³×ÀÌ¹ö¹Ì ¿µ¿ª] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[width], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[height], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[scrolling], tagAttrVal[no] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[frameborder], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[style], tagAttrVal[display:block;top: 22px; right: 209px; position: absolute; z-index: 15;] moreAttr[false]
+EndTag[</iframe>]
+Text[   		
+]
+EndTag[</div>]
+Text[
+]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[wrap] moreAttr[false]
+Text[
+]
+Text[
+
+
+]
+StartTag - tagName[script], tagAttr[language], tagAttrVal[JavaScript] moreAttr[false]
+Text[
+function mouseOver(obj){
+  obj.style.backgroundColor=&#34;#f6f4e5&#34;;
+}
+function mouseOut(obj){
+  obj.style.backgroundColor=&#34;#ffffff&#34;;
+}
+]
+EndTag[</script>]
+Text[
+
+	]
+Text[
+	
+		
+		
+	
+
+
+
+
+]
+StartTag - tagName[script], tagAttr[language], tagAttrVal[javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/recent_code.js?20170512071624] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[language], tagAttrVal[javascript] moreAttr[false]
+Text[addCode(&#39;102960&#39;);]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[language], tagAttrVal[JavaScript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/flashObject.js?20170512071624] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[language], tagAttrVal[JavaScript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/summary.js?20170512071624] moreAttr[false]
+EndTag[</script>]
+Text[
+
+]
+StartTag - tagName[script], tagAttr[language], tagAttrVal[JavaScript] moreAttr[false]
+Text[fchartStatus.setChartStatus(&#39;off&#39;);]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[style], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+
+.hide_chart {
+position: absolute;
+top: 0;
+left: -9999px;
+}
+]
+EndTag[</style>]
+Text[
+	]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[middle] moreAttr[true]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[new_totalinfo] moreAttr[false]
+Text[
+		
+
+		
+			
+			
+			
+				
+			
+		
+
+		
+			
+				
+				
+			
+			
+		
+
+																		
+        ]
+StartTag - tagName[dl], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ 
+	        ]
+StartTag - tagName[dt], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Á¾¸ñ ½Ã¼¼ Á¤º¸]
+EndTag[</dt>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[2017³â 05¿ù 19ÀÏ 16½Ã 10ºÐ ±âÁØ Àå¸¶°¨]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Á¾¸ñ¸í KODEX ±â°èÀåºñ]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Á¾¸ñÄÚµå 102960 ÄÚ½ºÇÇ]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ÇöÀç°¡ 6,460 ÀüÀÏ´ëºñ »ó½Â 30 ÇÃ·¯½º 0.47 ÆÛ¼¾Æ®]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ÀüÀÏ°¡ 6,430]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[½Ã°¡ 6,460]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[°í°¡ 6,495]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[»óÇÑ°¡ 8,355]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Àú°¡ 6,445]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ÇÏÇÑ°¡ 4,505]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[°Å·¡·® 1,733]
+EndTag[</dd>]
+Text[ 
+	        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[°Å·¡´ë±Ý 11¹é¸¸]
+EndTag[</dd>]
+Text[ 
+        ]
+EndTag[</dl>]
+Text[
+         
+        
+		]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[h_company] moreAttr[false]
+Text[
+		 	]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[wrap_company] moreAttr[false]
+Text[
+				]
+StartTag - tagName[h2], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this, 'sop.title', '', '', event);window.location.reload();] moreAttr[false]
+Text[KODEX ±â°èÀåºñ]
+EndTag[</a>]
+EndTag[</h2>]
+Text[
+
+				]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[description] moreAttr[false]
+Text[
+					]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[code] moreAttr[false]
+Text[102960]
+EndTag[</span>]
+Text[
+					
+						]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/item_renewal/btn_kospi.gif] moreAttr[true]
+StartTag - tagName[img], tagAttr[width], tagAttrVal[33] moreAttr[true]
+StartTag - tagName[img], tagAttr[height], tagAttrVal[16] moreAttr[true]
+StartTag - tagName[img], tagAttr[alt], tagAttrVal[ÄÚ½ºÇÇ] moreAttr[true]
+StartTag - tagName[img], tagAttr[class], tagAttrVal[kospi] moreAttr[false]
+Text[
+					
+					
+					
+					]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[³¯Â¥]
+EndTag[</span>]
+Text[
+					]
+StartTag - tagName[span], tagAttr[id], tagAttrVal[time] moreAttr[false]
+Text[
+					
+						
+						
+						
+							]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[date] moreAttr[false]
+Text[2017.05.19 ]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[±âÁØ(Àå¸¶°¨)]
+EndTag[</span>]
+EndTag[</em>]
+Text[
+						
+					
+					]
+EndTag[</span>]
+Text[
+	
+					]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[realtime] moreAttr[false]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[½Ç½Ã°£]
+EndTag[</span>]
+Text[ 
+					]
+EndTag[</em>]
+Text[
+					
+						
+						
+							]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[e_summary] moreAttr[false]
+Text[
+							
+						
+							]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[togglePannel('summary_lyr'); return false;] moreAttr[false]
+EndTag[</a>]
+Text[
+							
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ETF°³¿ä]
+EndTag[</span>]
+Text[
+							]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[summary_lyr] moreAttr[true]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[summary_lyr] moreAttr[true]
+StartTag - tagName[div], tagAttr[style], tagAttrVal[display:none;top:22px;left:0] moreAttr[false]
+Text[
+								]
+StartTag - tagName[iframe], tagAttr[id], tagAttrVal[summary_ifr] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[name], tagAttrVal[summary_ifr] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[width], tagAttrVal[410] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[height], tagAttrVal[] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[src], tagAttrVal[] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[scrolling], tagAttrVal[no] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[frameborder], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[iframe], tagAttr[style], tagAttrVal[position:absolute;left:0;top:-2;z-index:20] moreAttr[false]
+EndTag[</iframe>]
+Text[ 
+								]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[summary_info] moreAttr[true]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[summary_info] moreAttr[false]
+Text[ 
+									]
+StartTag - tagName[h4], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ETF°³¿ä]
+EndTag[</h4>]
+Text[
+									
+										]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[1ÁÂ´ç ¼øÀÚ»ê°¡Ä¡ÀÇ º¯µ¿·üÀ» ±âÃÊÁö¼öÀÎ KRX Shipbuilding Áö¼öÀÇ º¯µ¿·ü°ú À¯»çÇÏµµ·Ï ÅõÀÚ½ÅÅ¹Àç»êÀ» ¿î¿ëÇÏ´Â °ÍÀ» ¸ñÇ¥·Î ÇÕ´Ï´Ù.  ÇÑ±¹°Å·¡¼Ò°¡ »êÃâÇÏ´Â KRX Shipbuliding Áö¼ö´Â ±¹³» Á¶¼± »ê¾÷ÀÇ ÁÖ°¡Èå¸§À» ¹Ý¿µÇÏ´Â Áö¼ö·Î½á ±¹³» Á¶¼±¾÷Á¾À» ´ëÇ¥ÇÏ´Â 10°³ Á¾¸ñÀ¸·Î ±¸¼ºµÇ¾î ÀÖÀ¸¸ç 2006.1.2 1,000pt¸¦ ±âÁØÀ¸·Î ÇÏ¿© ¹ßÇ¥µÇ°í ÀÖ½À´Ï´Ù.  À¯µ¿¼º, Àç¹«»óÅÂ µîÀÇ ±âÁØÀ» Àû¿ëÇÏ¿© Á¾¸ñÀ» ¼±Á¤ÇÏ¸ç À¯µ¿ÁÖ½Ä°¡Áß ½Ã°¡ÃÑ¾×¹æ½Ä Áö¼ö·Î¼­ ¸Å³â 9¿ù Áö¼ö±¸¼ºÁ¾¸ñÀÇ Á¤±âº¯°æÀÌ ÀÌ·ç¾îÁý´Ï´Ù.]
+EndTag[</p>]
+Text[
+									    
+									    
+				            		    
+									    
+									    
+									]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[txt_notice] moreAttr[false]
+Text[ÃâÃ³ : ¿ÍÀÌÁî¿¡ÇÁ¿£]
+EndTag[</div>]
+Text[
+										]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[btn_area_top] moreAttr[false]
+Text[
+											]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[hidePannel('summary_lyr'); return false;] moreAttr[false]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://static.naver.net/nfinance/img/btn_close.gif] moreAttr[true]
+StartTag - tagName[img], tagAttr[alt], tagAttrVal[´Ý±â] moreAttr[true]
+StartTag - tagName[img], tagAttr[width], tagAttrVal[11] moreAttr[true]
+StartTag - tagName[img], tagAttr[height], tagAttrVal[11] moreAttr[false]
+EndTag[</a>]
+Text[
+										]
+EndTag[</div>]
+Text[
+									]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[bg_btm] moreAttr[false]
+EndTag[</div>]
+Text[   
+								]
+EndTag[</div>]
+Text[
+								]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[bg_lt] moreAttr[false]
+EndTag[</span>]
+Text[ 
+								]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[bg_rt] moreAttr[false]
+EndTag[</span>]
+Text[ 
+								]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[bu_arrow] moreAttr[false]
+EndTag[</div>]
+Text[ 
+							]
+EndTag[</div>]
+Text[ 
+						]
+EndTag[</em>]
+Text[
+						
+						
+						
+						
+						
+					
+			]
+EndTag[</div>]
+Text[
+		]
+EndTag[</div>]
+Text[
+
+		]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[quick] moreAttr[false]
+Text[
+			]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+				]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[snb_top1] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.2','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[MY STOCK Ãß°¡]
+EndTag[</span>]
+EndTag[</a>]
+Text[
+				]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:quickorder('on')] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[snb_top3] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.3','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ºü¸¥ÁÖ¹®]
+EndTag[</span>]
+EndTag[</a>]
+Text[
+			]
+EndTag[</p>]
+Text[
+			
+			]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[ly_lstmove blind NE=a:sop*m] moreAttr[false]
+Text[
+				]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[bg] moreAttr[false]
+EndTag[</span>]
+Text[
+				]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[txt _ly_group] moreAttr[false]
+Text[
+					]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[bx_sel scr_white2 _ly_group_list] moreAttr[false]
+Text[
+						]
+StartTag - tagName[ul], tagAttr[], tagAttrVal[] moreAttr[false]
+EndTag[</ul>]
+Text[
+					]
+EndTag[</div>]
+Text[
+					]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[bx_sel _ly_group_blank] moreAttr[true]
+StartTag - tagName[div], tagAttr[style], tagAttrVal[display:none;] moreAttr[false]
+Text[
+						]
+StartTag - tagName[p], tagAttr[class], tagAttrVal[txt_inner type7] moreAttr[false]
+Text[Ãß°¡ÇÒ ±×·ìÀÌ ¾ø½À´Ï´Ù.]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[±×·ìÀ» Ãß°¡ÇØÁÖ¼¼¿ä.]
+EndTag[</p>]
+Text[
+					]
+EndTag[</div>]
+Text[
+					]
+StartTag - tagName[p], tagAttr[class], tagAttrVal[rgt] moreAttr[false]
+StartTag - tagName[button], tagAttr[type], tagAttrVal[button] moreAttr[true]
+StartTag - tagName[button], tagAttr[class], tagAttrVal[btn_spr btn_groupadd2 NPI=a:add] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[±×·ìÃß°¡]
+EndTag[</span>]
+EndTag[</button>]
+EndTag[</p>]
+Text[
+					]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+						]
+StartTag - tagName[button], tagAttr[type], tagAttrVal[button] moreAttr[true]
+StartTag - tagName[button], tagAttr[class], tagAttrVal[btn_spr btn_cfm2 _btn_ok NPI=a:confirm] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[È®ÀÎ]
+EndTag[</span>]
+EndTag[</button>]
+Text[
+						]
+StartTag - tagName[button], tagAttr[type], tagAttrVal[button] moreAttr[true]
+StartTag - tagName[button], tagAttr[class], tagAttrVal[btn_spr btn_clse2 _btn_cancel NPI=a:close] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[´Ý±â]
+EndTag[</span>]
+EndTag[</button>]
+Text[
+					]
+EndTag[</p>]
+Text[
+				]
+EndTag[</div>]
+Text[
+				]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[txt _ly_message] moreAttr[true]
+StartTag - tagName[div], tagAttr[style], tagAttrVal[display:none;] moreAttr[false]
+Text[
+				]
+EndTag[</div>]
+Text[
+			]
+EndTag[</div>]
+Text[
+			
+				
+	        
+            ]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[layer_quick_order] moreAttr[true]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[quickOrderArea] moreAttr[true]
+StartTag - tagName[div], tagAttr[style], tagAttrVal[display:none] moreAttr[false]
+Text[
+                ]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[content] moreAttr[false]
+Text[
+                    ]
+StartTag - tagName[h5], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[³×ÀÌ¹ö ÁÖ½Ä°Å·¡¿¬°á]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ºü¸¥ ÁÖ¹®À» µµ¿Íµå¸³´Ï´Ù!]
+EndTag[</h5>]
+Text[
+                    ]
+StartTag - tagName[ul], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+                    ]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[º» ¼­ºñ½º´Â °í°´´ÔÀÇ ºü¸¥ ÁÖ¹®À» µ½±â À§ÇØ]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Áõ±Ç»çÀÇ ·Î±×ÀÎÀ» ¿¬°á]
+EndTag[</span>]
+Text[ÇØµå¸®°í ÀÖ½À´Ï´Ù.]
+EndTag[</li>]
+Text[
+                    ]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[°í°´´ÔÀÌ º¸À¯ÇÏ°í °è½Å Áõ±Ç»ç¸¦ Å¬¸¯ÇÑ ÈÄ]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Áõ±Ç»çÀÇ ¾ÆÀÌµð, ºñ¹Ð¹øÈ£, °øÀÎÀÎÁõ¼­·Î ÁÖ¹®]
+EndTag[</span>]
+Text[À»]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù. ]
+EndTag[</li>]
+Text[
+                    ]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Áõ±Ç»ç ·Î±×ÀÎ ÀÌÈÄ ½Ã½ºÅÛ ¹®Á¦°¡ ¹ß»ýÇÏ¸é,]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Áõ±Ç»ç °í°´¼¾ÅÍ·Î Á÷Á¢ ¹®ÀÇ]
+EndTag[</span>]
+Text[ ÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.   ]
+EndTag[</li>]
+Text[
+                    ]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[³×ÀÌ¹ö´Â Áõ±Ç»ç ¼­ºñ½ºÀÇ ½Ã½ºÅÛ Àå¾Ö¿¡ µû¸¥]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[¹ýÀû Ã¥ÀÓÀ» ÁöÁö ¾Ê½À´Ï´Ù. ]
+EndTag[</li>]
+Text[
+                    ]
+EndTag[</ul>]
+Text[
+                    
+                    ]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[ci_area] moreAttr[false]
+Text[
+                    	]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[quickOrderCiBanner0] moreAttr[false]
+EndTag[</div>]
+Text[
+                    	]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[quickOrderCiBanner1] moreAttr[false]
+EndTag[</div>]
+Text[
+                    	]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[quickOrderCiBanner2] moreAttr[false]
+EndTag[</div>]
+Text[
+                    	]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[quickOrderCiBanner3] moreAttr[false]
+EndTag[</div>]
+Text[
+                    ]
+EndTag[</div>]
+Text[
+                    ]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[btn_area_btm] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:quickorder('off')] moreAttr[false]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/item_renewal/btn_close.gif] moreAttr[true]
+StartTag - tagName[img], tagAttr[alt], tagAttrVal[´Ý±â] moreAttr[true]
+StartTag - tagName[img], tagAttr[width], tagAttrVal[38] moreAttr[true]
+StartTag - tagName[img], tagAttr[height], tagAttrVal[20] moreAttr[false]
+EndTag[</a>]
+EndTag[</div>]
+Text[
+                    ]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[btn_area_top] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:quickorder('off')] moreAttr[false]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/item_renewal/btn_close_x.gif] moreAttr[true]
+StartTag - tagName[img], tagAttr[alt], tagAttrVal[´Ý±â] moreAttr[true]
+StartTag - tagName[img], tagAttr[width], tagAttrVal[19] moreAttr[true]
+StartTag - tagName[img], tagAttr[height], tagAttrVal[19] moreAttr[false]
+EndTag[</a>]
+EndTag[</div>]
+Text[
+                ]
+EndTag[</div>]
+Text[
+            ]
+EndTag[</div>]
+Text[
+            
+		]
+EndTag[</div>]
+Text[
+		
+		
+	]
+EndTag[</div>]
+Text[
+
+	]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[content] moreAttr[false]
+Text[
+
+		]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[chart_area] moreAttr[true]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[spot spot_short] moreAttr[false]
+Text[
+			]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[rate_info] moreAttr[false]
+Text[
+			
+				
+                ]
+StartTag - tagName[dl], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ 
+                        ]
+StartTag - tagName[dt], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[KODEX ±â°èÀåºñ]
+EndTag[</strong>]
+EndTag[</dt>]
+Text[ 
+                        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[¿À´ÃÀÇ½Ã¼¼ 6,460 Æ÷ÀÎÆ®]
+EndTag[</dd>]
+Text[ 
+                        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[30 Æ÷ÀÎÆ® »ó½Â]
+EndTag[</dd>]
+Text[ 
+                        ]
+StartTag - tagName[dd], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[0.47% ÇÃ·¯½º]
+EndTag[</dd>]
+Text[ 
+                ]
+EndTag[</dl>]
+Text[
+                
+                
+				]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[today] moreAttr[false]
+Text[
+					]
+StartTag - tagName[p], tagAttr[class], tagAttrVal[no_today] moreAttr[false]
+Text[
+						
+							
+								]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[no_up] moreAttr[false]
+Text[
+							
+							
+							
+						
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[6,460]
+EndTag[</span>]
+Text[
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no6] moreAttr[false]
+Text[6]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[shim] moreAttr[false]
+Text[,]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no4] moreAttr[false]
+Text[4]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no6] moreAttr[false]
+Text[6]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no0] moreAttr[false]
+Text[0]
+EndTag[</span>]
+Text[
+						]
+EndTag[</em>]
+Text[
+					]
+EndTag[</p>]
+Text[
+					]
+StartTag - tagName[p], tagAttr[class], tagAttrVal[no_exday] moreAttr[false]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt1] moreAttr[false]
+Text[ÀüÀÏ´ëºñ]
+EndTag[</span>]
+Text[
+						
+							
+							
+								]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[no_up] moreAttr[false]
+Text[
+									]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[ico up] moreAttr[false]
+Text[»ó½Â]
+EndTag[</span>]
+Text[
+							
+							
+							
+							
+						
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[30]
+EndTag[</span>]
+Text[
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no3] moreAttr[false]
+Text[3]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no0] moreAttr[false]
+Text[0]
+EndTag[</span>]
+Text[
+						]
+EndTag[</em>]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[bar] moreAttr[false]
+Text[l]
+EndTag[</span>]
+Text[
+						
+							
+								]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[no_up] moreAttr[false]
+Text[
+									]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[ico plus] moreAttr[false]
+Text[+]
+EndTag[</span>]
+Text[
+							
+							
+							
+						
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[0.47]
+EndTag[</span>]
+Text[
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no0] moreAttr[false]
+Text[0]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[jum] moreAttr[false]
+Text[.]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no4] moreAttr[false]
+Text[4]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no7] moreAttr[false]
+Text[7]
+EndTag[</span>]
+Text[
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[per] moreAttr[false]
+Text[%]
+EndTag[</span>]
+Text[
+						]
+EndTag[</em>]
+Text[
+					]
+EndTag[</p>]
+Text[
+				]
+EndTag[</div>]
+Text[
+				]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[ÁÖ¿ä ½Ã¼¼(ÀüÀÏÁ¾°¡, ½Ã°íÀú°¡, °Å·¡·®, °Å·¡´ë±Ý)À» Á¦°øÇÕ´Ï´Ù.] moreAttr[true]
+StartTag - tagName[table], tagAttr[class], tagAttrVal[no_info] moreAttr[false]
+Text[
+				]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ÁÖ¿ä ½Ã¼¼]
+EndTag[</caption>]
+Text[
+				]
+StartTag - tagName[colgroup], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[col], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[col], tagAttr[width], tagAttrVal[214] moreAttr[false]
+StartTag - tagName[col], tagAttr[width], tagAttrVal[157] moreAttr[false]
+EndTag[</colgroup>]
+Text[
+				]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+					]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[first] moreAttr[false]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt2] moreAttr[false]
+Text[ÀüÀÏ]
+EndTag[</span>]
+Text[
+						]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[6,430]
+EndTag[</span>]
+Text[
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no6] moreAttr[false]
+Text[6]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[shim] moreAttr[false]
+Text[,]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no4] moreAttr[false]
+Text[4]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no3] moreAttr[false]
+Text[3]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no0] moreAttr[false]
+Text[0]
+EndTag[</span>]
+Text[
+						]
+EndTag[</em>]
+Text[
+					]
+EndTag[</td>]
+Text[
+					]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt4] moreAttr[false]
+Text[°í°¡]
+EndTag[</span>]
+Text[
+						
+							
+							
+								
+									
+									]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[no_up] moreAttr[false]
+Text[
+									
+									
+								
+							
+						
+						
+							
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[6,495]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no6] moreAttr[false]
+Text[6]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[shim] moreAttr[false]
+Text[,]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no4] moreAttr[false]
+Text[4]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no9] moreAttr[false]
+Text[9]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no5] moreAttr[false]
+Text[5]
+EndTag[</span>]
+Text[
+						
+						]
+EndTag[</em>]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt6] moreAttr[false]
+Text[(»óÇÑ°¡]
+EndTag[</span>]
+Text[
+						]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[no_cha] moreAttr[false]
+Text[
+							
+								
+								]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[8,355]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no8] moreAttr[false]
+Text[8]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[shim] moreAttr[false]
+Text[,]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no3] moreAttr[false]
+Text[3]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no5] moreAttr[false]
+Text[5]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no5] moreAttr[false]
+Text[5]
+EndTag[</span>]
+Text[
+							
+						]
+EndTag[</em>]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt8] moreAttr[false]
+Text[)]
+EndTag[</span>]
+Text[
+					]
+EndTag[</td>]
+Text[
+					]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt9] moreAttr[false]
+Text[°Å·¡·®]
+EndTag[</span>]
+Text[
+						]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[1,733]
+EndTag[</span>]
+Text[
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no1] moreAttr[false]
+Text[1]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[shim] moreAttr[false]
+Text[,]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no7] moreAttr[false]
+Text[7]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no3] moreAttr[false]
+Text[3]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no3] moreAttr[false]
+Text[3]
+EndTag[</span>]
+Text[
+						]
+EndTag[</em>]
+Text[
+					]
+EndTag[</td>]
+Text[
+				]
+EndTag[</tr>]
+Text[
+				]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+					]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[first] moreAttr[false]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt3] moreAttr[false]
+Text[½Ã°¡]
+EndTag[</span>]
+Text[
+						
+							
+							
+								
+									
+									]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[no_up] moreAttr[false]
+Text[
+									
+									
+								
+							
+						
+						
+							
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[6,460]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no6] moreAttr[false]
+Text[6]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[shim] moreAttr[false]
+Text[,]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no4] moreAttr[false]
+Text[4]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no6] moreAttr[false]
+Text[6]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no0] moreAttr[false]
+Text[0]
+EndTag[</span>]
+Text[
+						
+						]
+EndTag[</em>]
+Text[
+					]
+EndTag[</td>]
+Text[
+					]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt5] moreAttr[false]
+Text[Àú°¡]
+EndTag[</span>]
+Text[
+						
+							
+							
+								
+									
+									]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[no_up] moreAttr[false]
+Text[
+									
+									
+								
+							
+						
+						
+							
+							]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[6,445]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no6] moreAttr[false]
+Text[6]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[shim] moreAttr[false]
+Text[,]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no4] moreAttr[false]
+Text[4]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no4] moreAttr[false]
+Text[4]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no5] moreAttr[false]
+Text[5]
+EndTag[</span>]
+Text[
+						
+						]
+EndTag[</em>]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt7] moreAttr[false]
+Text[(ÇÏÇÑ°¡]
+EndTag[</span>]
+Text[
+						]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[no_cha] moreAttr[false]
+Text[
+							
+								
+								]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no4] moreAttr[false]
+Text[4]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[shim] moreAttr[false]
+Text[,]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no5] moreAttr[false]
+Text[5]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no0] moreAttr[false]
+Text[0]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no5] moreAttr[false]
+Text[5]
+EndTag[</span>]
+Text[
+							
+						]
+EndTag[</em>]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt8] moreAttr[false]
+Text[)]
+EndTag[</span>]
+Text[
+					]
+EndTag[</td>]
+Text[
+					]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt10] moreAttr[false]
+Text[°Å·¡´ë±Ý]
+EndTag[</span>]
+Text[
+						]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[
+						
+							
+								]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[11]
+EndTag[</span>]
+Text[
+								]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no1] moreAttr[false]
+Text[1]
+EndTag[</span>]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[no1] moreAttr[false]
+Text[1]
+EndTag[</span>]
+Text[
+							
+							
+						
+						]
+EndTag[</em>]
+Text[
+						]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[sptxt sp_txt11] moreAttr[false]
+Text[¹é¸¸]
+EndTag[</span>]
+Text[
+					]
+EndTag[</td>]
+Text[
+				]
+EndTag[</tr>]
+Text[
+				]
+EndTag[</table>]
+Text[
+			]
+EndTag[</div>]
+Text[
+			]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[chart] moreAttr[false]
+Text[
+				]
+StartTag - tagName[p], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[Á¾¸ñ ½Ã¼¼ Â÷Æ®]
+EndTag[</p>]
+Text[
+				]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[chart_da] moreAttr[false]
+Text[
+					]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[fs_chart] moreAttr[true]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[fs_chart] moreAttr[false]
+Text[
+						
+					]
+EndTag[</div>]
+Text[
+					
+					]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[pad_area] moreAttr[false]
+Text[ 
+						]
+StartTag - tagName[ul], tagAttr[class], tagAttrVal[pad_tap] moreAttr[false]
+Text[ 
+							]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[tab_first _item_img_chart _day on] moreAttr[true]
+StartTag - tagName[li], tagAttr[onclick], tagAttrVal[clickcr(this,'sic.1day','','',event); changeImgChart('day'); return false;] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[false]
+Text[1ÀÏ]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+							]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[_item_img_chart _day7] moreAttr[true]
+StartTag - tagName[li], tagAttr[onclick], tagAttrVal[clickcr(this,'sic.1week','','',event); changeImgChart('day7'); return false;] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[false]
+Text[1ÁÖ]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+							]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[_item_img_chart _day90] moreAttr[true]
+StartTag - tagName[li], tagAttr[onclick], tagAttrVal[clickcr(this,'sic.3month','','',event); changeImgChart('day90'); return false;] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[false]
+Text[3°³¿ù]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+							]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[_item_img_chart _day365] moreAttr[true]
+StartTag - tagName[li], tagAttr[onclick], tagAttrVal[clickcr(this,'sic.1year','','',event); changeImgChart('day365'); return false;] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[false]
+Text[1³â]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+							]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[_item_img_chart _day1095] moreAttr[true]
+StartTag - tagName[li], tagAttr[onclick], tagAttrVal[clickcr(this,'sic.3year','','',event); changeImgChart('day1095'); return false;] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[#] moreAttr[false]
+Text[3³â]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+						]
+EndTag[</ul>]
+Text[ 
+						]
+StartTag - tagName[h5], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[ÀÌ¹ÌÁö Â÷Æ®]
+EndTag[</h5>]
+Text[ 
+						]
+StartTag - tagName[img], tagAttr[id], tagAttrVal[img_cahrt_area] moreAttr[true]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgfinance.naver.net/chart/item/day/102960.png?sidcode=1495266699749] moreAttr[true]
+StartTag - tagName[img], tagAttr[width], tagAttrVal[698] moreAttr[true]
+StartTag - tagName[img], tagAttr[height], tagAttrVal[242] moreAttr[true]
+StartTag - tagName[img], tagAttr[alt], tagAttrVal[ÀÌ¹ÌÁö Â÷Æ®] moreAttr[false]
+Text[ 
+					]
+EndTag[</div>]
+Text[ 
+					]
+Text[
+				]
+EndTag[</div>]
+Text[
+			]
+EndTag[</div>]
+Text[
+			]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:fchartStatus.showChartArea('102960', 'KODEX+%B1%E2%B0%E8%C0%E5%BA%F1', 'true')] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[btn_close] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.toggle','','',event);] moreAttr[false]
+Text[
+				]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[btn_close] moreAttr[false]
+Text[
+					
+						
+						]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/item_renewal/btn_lay_open.gif] moreAttr[true]
+StartTag - tagName[img], tagAttr[alt], tagAttrVal[Â÷Æ®¿­±â] moreAttr[true]
+StartTag - tagName[img], tagAttr[width], tagAttrVal[45] moreAttr[true]
+StartTag - tagName[img], tagAttr[height], tagAttrVal[11] moreAttr[false]
+Text[
+					
+				]
+EndTag[</div>]
+Text[
+			]
+EndTag[</a>]
+Text[
+		]
+EndTag[</div>]
+Text[
+
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/template] moreAttr[true]
+StartTag - tagName[script], tagAttr[id], tagAttrVal[summaryTpl] moreAttr[false]
+Text[
+	&lt;div class=&#34;today&#34;&gt;
+		&lt;p class=&#34;no_today&#34;&gt;
+			{if rf == 1 || rf == 2}
+				&lt;em class=&#34;no_up&#34;&gt;
+			{elseif rf == 4 || rf == 5}
+				&lt;em class=&#34;no_down&#34;&gt;
+			{else}
+				&lt;em class=&#34;X&#34;&gt;
+			{/if}
+			{js numberFont(changeNumberFormat(=nv))}
+			&lt;/em&gt;
+		&lt;/p&gt;
+		&lt;p class=&#34;no_exday&#34;&gt;
+			&lt;span class=&#34;sptxt sp_txt1&#34;&gt;ÀüÀÏ´ëºñ&lt;/span&gt;
+			{if rf == 1}
+					&lt;em class=&#34;no_up&#34;&gt;
+						&lt;span class=&#34;ico up_price&#34;&gt;»óÇÑ°¡&lt;/span&gt;
+			{elseif rf == 2}
+					&lt;em class=&#34;no_up&#34;&gt;
+						&lt;span class=&#34;ico up&#34;&gt;»ó½Â&lt;/span&gt;
+			{elseif rf == 4}
+					&lt;em class=&#34;no_down&#34;&gt;
+						&lt;span class=&#34;ico down_price&#34;&gt;ÇÏÇÑ°¡&lt;/span&gt;
+			{elseif rf == 5}
+					&lt;em class=&#34;no_down&#34;&gt;
+						&lt;span class=&#34;ico down&#34;&gt;ÇÏ¶ô&lt;/span&gt;
+			{else}
+					&lt;em class=&#34;X&#34;&gt;
+						&lt;span class=&#34;ico sam&#34;&gt;º¸ÇÕ&lt;/span&gt;
+			{/if}
+			{js numberFont(changeNumberFormat(=cv))}
+			&lt;/em&gt;
+
+			&lt;span class=&#34;bar&#34;&gt;l&lt;/span&gt;
+			{if rf == 1 || rf == 2}
+					&lt;em class=&#34;no_up&#34;&gt;
+						&lt;span class=&#34;ico plus&#34;&gt;+&lt;/span&gt;
+			{elseif rf == 4 || rf == 5}
+					&lt;em class=&#34;no_down&#34;&gt;
+						&lt;span class=&#34;ico minus&#34;&gt;-&lt;/span&gt;
+			{else}
+					&lt;em class=&#34;X&#34;&gt;
+			{/if}
+			{js numberFont(changeNumberFormat(=cr.toFixed(2)))}
+				&lt;span class=&#34;per&#34;&gt;%&lt;/span&gt;
+			&lt;/em&gt;
+		&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;table summary=&#34;ÁÖ¿ä ½Ã¼¼(ÀüÀÏÁ¾°¡, ½Ã°íÀú°¡, °Å·¡·®, °Å·¡´ë±Ý)À» Á¦°øÇÕ´Ï´Ù.&#34; class=&#34;no_info&#34;&gt;
+	&lt;caption&gt;ÁÖ¿ä ½Ã¼¼&lt;/caption&gt;
+	&lt;colgroup&gt;&lt;col&gt;&lt;col width=&#34;214&#34;&gt;&lt;col width=&#34;157&#34;&gt;&lt;/colgroup&gt;
+	&lt;tr&gt;
+		&lt;td class=&#34;first&#34;&gt;
+			&lt;span class=&#34;sptxt sp_txt2&#34;&gt;ÀüÀÏ&lt;/span&gt;
+			&lt;em&gt;
+                {if sv == 0}
+				{js numberFont(changeNumberFormat(=pcv))}
+                {else}
+				{js numberFont(changeNumberFormat(=sv))}
+                {/if}
+			&lt;/em&gt;
+		&lt;/td&gt;
+		&lt;td&gt;
+			&lt;span class=&#34;sptxt sp_txt4&#34;&gt;°í°¡&lt;/span&gt;
+			{if tyn == &#34;Y&#34;}
+				&lt;em&gt;
+			{else}
+				{if hv == 0}
+				&lt;em&gt;
+				{elseif pcv &lt; hv}
+				&lt;em class=&#34;no_up&#34;&gt;
+				{elseif pcv &gt; hv}
+				&lt;em class=&#34;no_down&#34;&gt;
+				{else}
+				&lt;em&gt;
+				{/if}
+			{/if}
+			{if ms == &#34;PREOPEN&#34;}
+				{js numberFont(0)}
+			{else}
+				{js numberFont(changeNumberFormat(=hv))}
+			{/if}
+			&lt;/em&gt;
+			&lt;span class=&#34;sptxt sp_txt6&#34;&gt;(»óÇÑ°¡&lt;/span&gt;
+			&lt;em class=&#34;no_cha&#34;&gt;
+				{if ms == &#34;PREOPEN&#34;}
+					{js numberFont(0)}
+				{else}
+					{js numberFont(changeNumberFormat(=ul))}
+				{/if}
+			&lt;/em&gt;
+			&lt;span class=&#34;sptxt sp_txt8&#34;&gt;)&lt;/span&gt;
+		&lt;/td&gt;
+		&lt;td&gt;
+			&lt;span class=&#34;sptxt sp_txt9&#34;&gt;°Å·¡·®&lt;/span&gt;
+			&lt;em&gt;
+				{js numberFont(changeNumberFormat(=aq))}
+			&lt;/em&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td class=&#34;first&#34;&gt;
+			&lt;span class=&#34;sptxt sp_txt3&#34;&gt;½Ã°¡&lt;/span&gt;
+			{if tyn == &#34;Y&#34;}
+				&lt;em&gt;
+			{else}
+				{if ov == 0}
+				&lt;em&gt;
+				{elseif pcv &lt; ov}
+				&lt;em class=&#34;no_up&#34;&gt;
+				{elseif pcv &gt; ov}
+				&lt;em class=&#34;no_down&#34;&gt;
+				{else}
+				&lt;em&gt;
+				{/if}
+			{/if}
+			{if ms == &#34;PREOPEN&#34;}
+				{js numberFont(0)}
+			{else}
+				{js numberFont(changeNumberFormat(=ov))}
+			{/if}
+			&lt;/em&gt;
+		&lt;/td&gt;
+		&lt;td&gt;
+			&lt;span class=&#34;sptxt sp_txt5&#34;&gt;Àú°¡&lt;/span&gt;
+			{if tyn == &#34;Y&#34;}
+				&lt;em&gt;
+			{else}
+				{if lv == 0}
+				&lt;em&gt;
+				{elseif pcv &lt; lv}
+				&lt;em class=&#34;no_up&#34;&gt;
+				{elseif pcv &gt; lv}
+				&lt;em class=&#34;no_down&#34;&gt;
+				{else}
+				&lt;em&gt;
+				{/if}
+			{/if}
+			{if ms == &#34;PREOPEN&#34;}
+				{js numberFont(0)}
+			{else}
+				{js numberFont(changeNumberFormat(=lv))}
+			{/if}
+			&lt;/em&gt;
+			&lt;span class=&#34;sptxt sp_txt7&#34;&gt;(ÇÏÇÑ°¡&lt;/span&gt;
+			&lt;em class=&#34;no_cha&#34;&gt;
+				{if ms == &#34;PREOPEN&#34;}
+					{js numberFont(0)}
+				{else}
+					{js numberFont(changeNumberFormat(=ll))}
+				{/if}
+			&lt;/em&gt;
+			&lt;span class=&#34;sptxt sp_txt8&#34;&gt;)&lt;/span&gt;
+		&lt;/td&gt;
+		&lt;td&gt;
+			&lt;span class=&#34;sptxt sp_txt10&#34;&gt;°Å·¡´ë±Ý&lt;/span&gt;
+			&lt;em&gt;
+				{js numberFont(changeNumberFormat((=aa/1000000).toFixed(0)))}
+			&lt;/em&gt;
+			&lt;span class=&#34;sptxt sp_txt11&#34;&gt;¹é¸¸&lt;/span&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/table&gt;
+]
+EndTag[</script>]
+Text[
+
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[false]
+Text[
+var pollingInterval = 2000;
+var timer = null;
+var pollingAjax = null;
+var itemcodes = &#39;&#39;;
+
+var startTimer = function() {
+	clearTimer();
+	timer = setInterval(&#39;doPolling()&#39;, pollingInterval);
+}
+
+var clearTimer = function() {
+	if (pollingAjax) {
+		pollingAjax.abort();
+		pollingAjax = null;
+	}
+
+	timer = window.clearInterval(timer);
+}
+
+var doPolling = function() {
+	var pollingApiUrl = &#34;http://polling.finance.naver.com/api/realtime.nhn?query=SERVICE_ITEM:&#34; + &#34;102960&#34;
+
+	if (requestType == &#39;recent&#39; &amp;&amp; itemcodes != &#34;&#34;) {
+		pollingApiUrl += &#34;|&#34; + &#34;SERVICE_RECENT_ITEM:&#34; + itemcodes;
+	} else if (requestType == &#39;mystock&#39; &amp;&amp; itemcodes != &#34;&#34;){
+		pollingApiUrl += &#34;|&#34; + &#34;SERVICE_MYSTOCK_ITEM:&#34; + itemcodes;
+	}
+
+	pollingAjax = jindo.$Ajax(pollingApiUrl, {
+		type : &#39;jsonp&#39;,
+		jsonp_charset : &#34;euc-kr&#34;,
+		onload : function(response) {
+			if(response != null &amp;&amp; response.readyState() == 4) {
+				refreshQuote(response.json());
+				startTimer();
+			}
+		},
+		timeout : 2,
+		ontimeout : function() {
+			startTimer();
+		},
+		async : true
+	});
+	pollingAjax.request();
+}
+
+function displayTime(ms, time) {
+	var result;
+
+	var utcDate = new Date(time);
+	utcDate.setMinutes(utcDate.getMinutes() + utcDate.getTimezoneOffset());
+	utcDate.setHours(utcDate.getHours() + 9);
+
+	var oDate = jindo.$Date(utcDate);
+
+	if (ms == &#34;PREOPEN&#34;) {
+		closeDate = oDate.format(&#39;Y.m.d&#39;)
+		result = &#39;&lt;em class=&#34;date&#34;&gt;&#39; + oDate.format(&#39;Y.m.d&#39;) + &#39; &lt;span&gt;±âÁØ(°³ÀåÀü)&lt;/span&gt;&lt;/em&gt; &#39;;
+	} else if (ms == &#34;CLOSE&#34;) {
+		result = &#39;&lt;em class=&#34;date&#34;&gt;&#39; + closeDate + &#39; &lt;span&gt;±âÁØ(Àå¸¶°¨)&lt;/span&gt;&lt;/em&gt; &#39;;
+	} else {
+		closeDate = oDate.format(&#39;Y.m.d&#39;)
+		result = &#39;&lt;em class=&#34;date&#34;&gt;&#39; + oDate.format(&#39;Y.m.d H:i&#39;) + &#39; &lt;span&gt;±âÁØ(ÀåÁß)&lt;/span&gt;&lt;/em&gt; &#39;;
+	}
+
+	return result;
+}
+
+/**
+ * ¿ìÃø»ó´Ü ÅõÀÚÁ¤º¸ ¿µ¿ª Áß, NAV °ª °»½Å
+ */
+function refreshEtfNav(etfNav) {
+	var elEtfNav = jindo.$Element(jindo.$$.getSingle(&#34;#on_board_last_nav&#34;));
+	if (elEtfNav != null) {
+		if (etfNav != null) {
+			elEtfNav.html(&#34;&lt;em&gt;&lt;strong&gt;&#34; + changeNumberFormat(etfNav.toFixed(0)) + &#34;&lt;/strong&gt;&lt;/em&gt;&#34;);
+		} else {
+			elEtfNav.html(&#34;&lt;em&gt;&lt;strong&gt;N/A&lt;/strong&gt;&lt;/em&gt;&#34;);
+		}
+	}
+}
+
+function refreshInvestmentSummary(nv) {
+	if (!(false &amp;&amp; false &amp;&amp; false)) {
+		return;
+	}
+
+	var averageBuyingPrice = 0;
+	var holdingShares = 0;
+	
+	var elEvaluationProfitAmount = jindo.$Element(jindo.$$.getSingle(&#34;#evaluation_profit_amount&#34;));	
+	// Æò°¡¼ÕÀÍ = (nv - Æò±Õ¸ÅÀÔ°¡) * º¸À¯¼ö·® 
+	var evaluationProfitAmount = (nv - 0) * 0;
+	// Æò°¡¼öÀÍ·ü = Æò°¡¼ÕÀÍ / (Æò±Õ¸ÅÀÔ°¡ * º¸À¯¼ö·®) * 100
+	var evaluationProfitRate = evaluationProfitAmount / (0 * 0) * 100;
+	
+	var sPointClass = &#34;&#34;;	
+	var sSign = &#34;&#34;;
+	if (evaluationProfitAmount &gt; 0) {
+		sPointClass = &#34;f_up&#34;;
+		sSign = &#34;+&#34;;
+	} else {
+		sPointClass = &#34;f_down&#34;;
+		sSign = &#34;&#34;;
+	}
+	
+	var evaluationProfitAmoutText = &#34;&#34;
+	if (evaluationProfitAmount &gt; 10000000000) {
+		var evaluationProfitAmountDivideBillion = evaluationProfitAmount / 100000000;
+		evaluationProfitAmountText = &#34;&lt;em&gt;&#34; + sSign + changeNumberFormat(evaluationProfitAmountDivideBillion.toFixed(0)) + &#34;¾ï&lt;/em&gt;&#34;;
+	} else {
+		evaluationProfitAmountText = &#34;&lt;em&gt;&#34; + sSign + changeNumberFormat(evaluationProfitAmount) + &#34;&lt;/em&gt;&#34;;
+	}
+	
+	if (elEvaluationProfitAmount != null) {
+		elEvaluationProfitAmount.removeClass(&#34;f_up&#34;);
+		elEvaluationProfitAmount.removeClass(&#34;f_down&#34;);
+		elEvaluationProfitAmount.addClass(sPointClass);
+		elEvaluationProfitAmount.html(evaluationProfitAmountText);
+	}
+	
+	var elEvaluationProfitRate = jindo.$Element(jindo.$$.getSingle(&#34;#evaluation_profit_rate&#34;));
+	if (elEvaluationProfitRate != null) {
+		
+		elEvaluationProfitRate.removeClass(&#34;f_up&#34;);
+		elEvaluationProfitRate.removeClass(&#34;f_down&#34;);
+		elEvaluationProfitRate.addClass(sPointClass);
+		
+		elEvaluationProfitRate.html(&#34;&lt;em&gt;&#34; + sSign + changeNumberFormat(evaluationProfitRate.toFixed(2)) + &#34;%&lt;/em&gt;&#34;);
+	}
+}
+
+
+function refreshCompanyValue(json) {
+	var sPer = &#34;N/A&#34;;
+	var sKrxPer = &#34;N/A&#34;;
+	/* if ((json.per !== undefined) &amp;&amp; (json.per !== null)) {
+		sPer = converToFixedPointNotation(json.per, 2);
+	}
+
+	jindo.$A(jindo.$$(&#34;#_per&#34;)).forEach(function(v) {
+		jindo.$Element(v).text(sPer);
+	}, this); */
+	
+	if ((json.eps !== undefined) &amp;&amp; (json.eps !== null)) {
+		sPer = converToFixedPointNotation(json.nv / json.eps, 2);
+	}
+
+	jindo.$A(jindo.$$(&#34;#_per&#34;)).forEach(function(v) {
+		jindo.$Element(v).text(sPer);
+	}, this);
+	
+	if ((json.keps !== undefined) &amp;&amp; (json.keps !== null)) {
+		sKrxPer = converToFixedPointNotation(json.nv / json.keps, 2);
+	}
+
+	jindo.$A(jindo.$$(&#34;#krx_per&#34;)).forEach(function(v) {
+		jindo.$Element(v).text(sKrxPer);
+	}, this);
+	
+	var sCnsPer = &#34;N/A&#34;;
+	if ((json.cnsEps !== undefined) &amp;&amp; (json.cnsEps !== null)) {
+		sCnsPer = converToFixedPointNotation(json.nv / json.cnsEps, 2);
+	}
+
+	jindo.$A(jindo.$$(&#34;#_cns_per&#34;)).forEach(function(v) {
+		jindo.$Element(v).text(sCnsPer);
+	}, this);
+
+	var sPbr = &#34;N/A&#34;;
+	if ((json.bps !== undefined) &amp;&amp; (json.bps !== null)) {
+		var bps = converToFixedPointNotation(json.bps, 0)
+		sPbr = converToFixedPointNotation(json.nv / bps, 2);
+	}
+
+	jindo.$A(jindo.$$(&#34;#_pbr&#34;)).forEach(function(v) {
+		jindo.$Element(v).text(sPbr);
+	}, this);
+
+	var sDvr = &#34;N/A&#34;;
+	if ((json.dv !== undefined) &amp;&amp; (json.dv !== null)) {
+		var dv = converToFixedPointNotation(json.dv, 0)
+		sDvr = converToFixedPointNotation((dv * 100)/ json.nv, 2);
+	}
+
+	jindo.$A(jindo.$$(&#34;#_dvr&#34;)).forEach(function(v) {
+		jindo.$Element(v).text(sDvr);
+	}, this);
+}
+
+function refreshQuote(res) {
+	if(res != null &amp;&amp; res.resultCode == &#39;success&#39;) {
+		pollingInterval = res.result.pollingInterval;
+
+		for (var index = 0 ; index &lt; res.result.areas.length ; index++) {
+			if (res.result.areas[index].name == &#34;SERVICE_ITEM&#34;) {
+				var ms = &#34;NOT DEFINED&#34;;
+				ms = res.result.areas[index].datas[0].ms;
+				document.getElementById(&#34;time&#34;).innerHTML = displayTime(ms, res.result.time);
+
+				jindo.$Element(jindo.$$.getSingle(&#34;#chart_area .rate_info&#34;)).html(jindo.$Template(&#34;summaryTpl&#34;).process(res.result.areas[index].datas[0]));
+
+				refreshInvestmentSummary(res.result.areas[index].datas[0].nv);				
+				refreshEtfNav(res.result.areas[index].datas[0].nav);
+				refreshCompanyValue(res.result.areas[index].datas[0]);
+			} else if (res.result.areas[index].name == &#34;SERVICE_RECENT_ITEM&#34;) {
+				renderRecentAreaRealtime(&#34;recent&#34;, res.result.areas[index]);
+			} else if (res.result.areas[index].name == &#34;SERVICE_MYSTOCK_ITEM&#34;) {
+				renderRecentAreaRealtime(&#34;mystock&#34;, res.result.areas[index]);
+			}
+		}
+	}
+}
+
+function numberFont(value) {
+	value = value + &#34;&#34;;
+	var result = &#34;&#34;;
+
+	for (i = 0; i &lt; value.length; i++) {
+		var tmpChar = value.charAt(i);
+
+		result += &#39;&lt;span class=&#34;&#39;;
+		if (tmpChar == &#34;.&#34;) {
+			result += &#34;jum&#34;;
+		} else if (tmpChar == &#34;,&#34;) {
+			result += &#34;shim&#34;;
+		} else {
+			result += &#34;no&#34; + tmpChar;
+		}
+		result += &#39;&#34;&gt;&#39; + tmpChar + &#39;&lt;/span&gt;&#39;;
+	}
+
+	return result;
+}
+
+function changeNumberFormat(vNumber){
+	var sUnderNumber = &#34;&#34;;
+	var sNumberString = vNumber || 0;
+	sNumberString = (typeof sNumberString != &#34;String&#34;) ? String(sNumberString) : sNumberString;
+
+	if(sNumberString.indexOf(&#34;.&#34;) &gt; -1){
+		var aNumber = sNumberString.split(&#34;.&#34;);
+		sNumberString = aNumber[0];
+		sUnderNumber = &#34;.&#34; + aNumber[1];
+	}
+
+	return sNumberString.replace(/(\d)(?=(\d{3})+$)/igm, &#34;$1,&#34;) + sUnderNumber;
+}
+
+function converToFixedPointNotation (nNumber, nDecimalLength){
+	return parseFloat(nNumber).toFixed(nDecimalLength || 0);
+}
+
+// 1ºÐ¸¶´Ù Á¤º¸ ¾÷µ¥ÀÌÆ®
+var updateInformationInterval = 60000;
+var informationTimer = null;
+var oUpdateAjax = null;
+
+var startInformationTimer = function() {
+	clearInformationTimer();
+	informationTimer = setInterval(&#39;doUpdateInformation()&#39;, updateInformationInterval);
+}
+
+var clearInformationTimer = function() {
+	if (oUpdateAjax) {
+		oUpdateAjax.abort();
+		oUpdateAjax = null;
+	}
+
+	informationTimer = window.clearInterval(informationTimer);
+}
+
+var doUpdateInformation = function() {
+	var sApiUrl = &#34;http://api.finance.naver.com/service/itemSummary.nhn?itemcode=102960&#34;
+
+	oUpdateAjax = jindo.$Ajax(sApiUrl, {
+		type : &#39;jsonp&#39;,
+		jsonp_charset : &#34;utf-8&#34;,
+		onload : function(response) {
+			if(response != null &amp;&amp; response.readyState() == 4) {
+				var json = response.json();
+				
+				if (json.now == undefined) {
+					startInformationTimer();
+					return;
+				}
+				
+				var sMarketSum = (json.marketSum + &#34;&#34;);
+				sMarketSum = sMarketSum.substring(0, sMarketSum.length - 2);
+				sMarketSum = changeNumberFormat(sMarketSum);
+
+				var sPer = changeNumberFormat(json.per);
+				var sEps = changeNumberFormat(json.eps);
+				var sNowVal = changeNumberFormat(json.now);
+				var sDiff = changeNumberFormat(json.diff);
+				var sRate = changeNumberFormat(json.rate) + &#34;%&#34;;
+				var sQuant = changeNumberFormat(json.quant);
+				var sAmount = changeNumberFormat(json.amount);
+				var sHigh = changeNumberFormat(json.high);
+				var sLow = changeNumberFormat(json.low);
+
+				if (sRate == &#34;0%&#34;) {
+					sRate = &#34;0.00%&#34;;
+				}
+
+				if (json.per == undefined) {
+					sPer = &#34;N/A&#34;;
+				}
+				
+				if (json.eps == undefined) {
+					sEps = &#34;N/A&#34;;
+				}
+				
+				jindo.$A(jindo.$$(&#34;#_sise_market_sum&#34;)).forEach(function(v) {
+					jindo.$Element(v).text(sMarketSum);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_sise_per&#34;)).forEach(function(v) {
+					jindo.$Element(v).text(sPer);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_sise_eps&#34;)).forEach(function(v) {
+					jindo.$Element(v).text(sEps);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_nowVal&#34;)).forEach(function(v) {
+					jindo.$Element(v).text(sNowVal);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_diff&#34;)).forEach(function(v) {
+					var sFormat = null;
+					var sDiffToDisplay = sDiff.replace(&#34;-&#34;, &#34;&#34;);
+
+					if (json.risefall == 1) {
+						sFormat = &#34;&lt;em class=\&#34;bu_p bu_pup2\&#34; style=\&#34;margin:0 4px 0 0\&#34;&gt;&lt;span class=\&#34;blind\&#34;&gt;»óÇÑ&lt;/span&gt;&lt;/em&gt;&lt;span class=\&#34;tah p11 red01\&#34;&gt;%s&lt;/span&gt;&#34;;
+					} else if (json.risefall == 2) {
+						sFormat = &#34;&lt;em class=\&#34;bu_p bu_pup\&#34; style=\&#34;margin:0 4px 0 0\&#34;&gt;&lt;span class=\&#34;blind\&#34;&gt;»ó½Â&lt;/span&gt;&lt;/em&gt;&lt;span class=\&#34;tah p11 red01\&#34;&gt;%s&lt;/span&gt;&#34;;
+					} else if (json.risefall == 3) {
+						sFormat = &#34;&lt;span class=\&#34;tah p11\&#34;&gt;%s&lt;/span&gt;&#34;;
+					} else if (json.risefall == 4) {
+						sFormat = &#34;&lt;em class=\&#34;bu_p bu_pdn2\&#34; style=\&#34;margin:0 4px 0 0\&#34;&gt;&lt;span class=\&#34;blind\&#34;&gt;ÇÏÇÑ&lt;/span&gt;&lt;/em&gt;&lt;span class=\&#34;tah p11 nv01\&#34;&gt;%s&lt;/span&gt;&#34;;
+					} else {
+						sFormat = &#34;&lt;em class=\&#34;bu_p bu_pdn\&#34; style=\&#34;margin:0 4px 0 0\&#34;&gt;&lt;span class=\&#34;blind\&#34;&gt;ÇÏ¶ô&lt;/span&gt;&lt;/em&gt;&lt;span class=\&#34;tah p11 nv01\&#34;&gt;%s&lt;/span&gt;&#34;;
+					}
+
+					var sHtml = jindo.$S(sFormat).format(sDiffToDisplay);
+
+					jindo.$Element(v).html(sHtml);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_rate&#34;)).forEach(function(v) {
+					var sCss = &#34;red01&#34;;
+					var sRateToDisplay = sRate;
+
+					if (sRate.indexOf(&#34;-&#34;) &gt; -1) {
+						sCss = &#34;nv01&#34;;
+					} else if (sRate.indexOf(&#34;0.00&#34;) &gt; -1) {
+						sCss = &#34;&#34;;
+					} else {
+						sRateToDisplay = &#34;+&#34; + sRateToDisplay;
+					}
+
+					var sHtml = &#34;&lt;span class=\&#34;tah p11 &#34; + sCss + &#34;\&#34;&gt;&#34; + sRateToDisplay + &#34;&lt;/span&gt;&#34;;
+					jindo.$Element(v).html(sHtml);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_quant&#34;)).forEach(function(v) {
+					jindo.$Element(v).text(sQuant);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_amount&#34;)).forEach(function(v) {
+					jindo.$Element(v).text(sAmount);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_high&#34;)).forEach(function(v) {
+					jindo.$Element(v).text(sHigh);
+				}, this);
+
+				jindo.$A(jindo.$$(&#34;#_low&#34;)).forEach(function(v) {
+					jindo.$Element(v).text(sLow);
+				}, this);
+
+				startInformationTimer();
+			}
+		},
+		timeout : 2,
+		ontimeout : function() {
+			startInformationTimer();
+		},
+		async : true
+	});
+	oUpdateAjax.request();
+}
+
+var dateTime = &#34;20170519161046&#34;;
+var closeDate = dateTime.substring(0,4) + &#34;.&#34; + dateTime.substring(4,6) + &#34;.&#34; + dateTime.substring(6,8);
+
+/**
+ * ÇÃ·¡½Ã Áö¿ø¿©ºÎ È®ÀÎ
+ */
+function isInstalledFlash() {
+	var aFlash = jindo.$Agent().flash();
+	var bResult = false;
+	
+	if (aFlash != null &amp;&amp; aFlash.installed) {
+		bResult = true;
+	}
+	
+	return bResult;
+}
+
+/**
+ * ÇÃ·¡½Ã Áö¿ø¿©ºÎ¿¡ µû¶ó Â÷Æ® ³ëÃâ
+ */
+function initChartArea(flashAreaClassName, htmlAreaClassName) {
+	var eFlashChartArea = jindo.$Element(jindo.$$.getSingle(&#34;.&#34; + flashAreaClassName));
+	var eImgChartArea = jindo.$Element(jindo.$$.getSingle(&#34;.&#34; + htmlAreaClassName));
+
+	if (eFlashChartArea != null &amp;&amp; eImgChartArea != null) {
+		if (isInstalledFlash()) {
+			eImgChartArea.hide();
+		} else {
+			eFlashChartArea.hide();
+		}
+	}
+}
+
+/**
+ * ¼±ÅÃÇÑ Å¸ÀÔ(1ÀÏ, ÀÏÁÖÀÏ, 3°³¿ù, 1³â, 3³â)¿¡ µû¶ó ÀÌ¹ÌÁö Â÷Æ® º¯°æ
+ *
+ * @param chartType Â÷Æ®Á¾·ù(1ÀÏ, ÀÏÁÖÀÏ, 3°³¿ù, 1³â, 3³â)
+ */
+function changeImgChart(chartType) {
+	eImgChartTab = jindo.$Element(jindo.$$.getSingle(&#34;._&#34; + chartType));
+	
+	if (eImgChartTab != null &amp;&amp; !eImgChartTab.hasClass(&#34;on&#34;)) {
+		jindo.$Element(jindo.$$.getSingle(&#34;#img_cahrt_area&#34;)).attr(&#34;src&#34;, &#34;http://imgfinance.naver.net/chart/item/&#34; + chartType + &#34;/102960.png?sidcode=1495266699749&#34;);
+	}
+}
+
+jindo.$Element(jindo.$$.getSingle(&#39;.pad_tap&#39;)).delegate(&#39;click&#39;, &#39;li&#39;, function(oEvent) {
+	jindo.$Element(jindo.$$.getSingle(&#39;li._item_img_chart.on&#39;)).removeClass(&#39;on&#39;);
+	jindo.$Element(oEvent.element).addClass(&#39;on&#39;);
+});
+
+initChartArea(&#39;fs_chart&#39;, &#39;pad_area&#39;);
+]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[false]
+Text[
+&lt;!--
+jindo.$Fn(function() {
+	var itemAddLayer = new MyFinance.MyStock.ItemAddLayer(jindo.$$.getSingle(&#39;.ly_lstmove&#39;), {
+		&#39;LayerPosition&#39;: {
+			sPosition : &#34;outside-bottom&#34;,
+			sAlign : &#34;left&#34;,
+			nTop : 4,
+			nLeft : -96
+		}
+	});
+
+	jindo.$Fn(function(e) {
+		e.stopDefault();
+		itemAddLayer.open([&#39;102960&#39;], e.element);
+	}, this).attach(jindo.$$.getSingle(&#39;.snb_top1&#39;), &#39;click&#39;);
+	
+	
+}, this).attach(document, &#39;domready&#39;);
+//--&gt;
+]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/jindoComponent/jindo.Component.1.0.3.js?] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/jindoComponent/jindo.UIComponent.1.0.1.js?] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/jindoComponent/jindo.Timer.1.0.3.js?] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/jindoComponent/jindo.LayerManager.1.0.1.js?] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/jindoComponent/jindo.LayerPosition.1.0.1.js?] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/myfinance/MyFinance.Core.js?] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/myfinance/MyFinance.Util.js?] moreAttr[false]
+EndTag[</script>]
+Text[
+]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[true]
+StartTag - tagName[script], tagAttr[src], tagAttrVal[http://finance.naver.com/js/myfinance/MyFinance.MyStock.ItemAddLayer.js?] moreAttr[false]
+EndTag[</script>]
+Text[
+	]
+Text[
+	
+	]
+Text[
+	
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+							
+			
+			
+			
+			
+		
+		
+			
+				]
+StartTag - tagName[ul], tagAttr[class], tagAttrVal[tabs_submenu tab_total_submenu2] moreAttr[false]
+Text[ 
+		           ]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=102960] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[tab1] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.4','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Á¾ÇÕÁ¤º¸]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+		           ]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[tab_on] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/sise.nhn?code=102960] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[tab2] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.5','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[½Ã¼¼]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+		           ]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/fchart.nhn?code=102960] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[tab3] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.6','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Â÷Æ®]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+		           ]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/frgn.nhn?code=102960] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[tab4] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.10','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ÅõÀÚÀÚº° ¸Å¸Åµ¿Çâ]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+		           ]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/news.nhn?code=102960] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[tab5] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.7','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[´º½ºÂ·°ø½Ã]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+		           ]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/coinfo.nhn?code=102960] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[tab6] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.21','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[ETFºÐ¼®]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+		           ]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/board.nhn?code=102960] moreAttr[true]
+StartTag - tagName[a], tagAttr[class], tagAttrVal[tab7] moreAttr[true]
+StartTag - tagName[a], tagAttr[onclick], tagAttrVal[clickcr(this,'sop.11','','',event);] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+Text[Á¾¸ñÅä·Ð½Ç]
+EndTag[</span>]
+EndTag[</a>]
+EndTag[</li>]
+Text[ 
+				]
+EndTag[</ul>]
+Text[
+			
+			
+			
+		
+	
+
+	]
+Text[
+	
+	]
+StartTag - tagName[h3], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+Text[½Ã¼¼]
+EndTag[</h3>]
+Text[
+	]
+Text[
+	]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[section inner_sub] moreAttr[false]
+Text[
+		]
+StartTag - tagName[div], tagAttr[style], tagAttrVal[float:left;width:381px;margin-right:9px;] moreAttr[false]
+Text[
+                        ]
+StartTag - tagName[h4], tagAttr[class], tagAttrVal[tlline2] moreAttr[false]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[red03] moreAttr[false]
+Text[ÁÖ¿ä]
+EndTag[</span>]
+Text[½Ã¼¼]
+EndTag[</strong>]
+EndTag[</h4>]
+Text[
+			]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[ÁÖ¿ä½Ã¼¼ Á¤º¸¿¡ °üÇÑÇ¥ ÀÔ´Ï´Ù.] moreAttr[true]
+StartTag - tagName[table], tagAttr[cellspacing], tagAttrVal[0] moreAttr[true]
+StartTag - tagName[table], tagAttr[class], tagAttrVal[type2 type_tax] moreAttr[false]
+Bingo!
+Enter fetchTHTD. target[í˜„ìž¬ê°€] [][]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÁÖ¿ä½Ã¼¼  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[tbody], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ÇöÀç°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÇöÀç°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[strong], tagAttr[class], tagAttrVal[tah p11] moreAttr[true]
+ok Text token : 6,460  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ¸ÅµµÈ£°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¸ÅµµÈ£°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 6,460  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ÀüÀÏ´ëºñ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀüÀÏ´ëºñ]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[strong], tagAttr[id], tagAttrVal[_diff] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[bu_p bu_pup] moreAttr[true]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+ok Text token : »ó½Â  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+				30
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ¸Å¼öÈ£°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¸Å¼öÈ£°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 6,445  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : µî¶ô·ü(%)  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[µî¶ô·ü(%)]
+ok Text token : 				
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[strong], tagAttr[id], tagAttrVal[_rate] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+				+0.47%
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ÀüÀÏ°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀüÀÏ°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 6,430  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : °Å·¡·®  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[°Å·¡·®]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[true]
+ok Text token : 1,733  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ½Ã°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[½Ã°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 6,460  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : °Å·¡´ë±Ý(¹é¸¸)  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[°Å·¡´ë±Ý(¹é¸¸)]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[true]
+ok Text token : 
+				
+					
+						11
+					
+					
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : °í°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[°í°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[true]
+ok Text token : 6,495  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ¾×¸é°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¾×¸é°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+ok Text token : 
+					
+					
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : Àú°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[Àú°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[true]
+ok Text token : 6,445  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[4] moreAttr[true]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : »óÇÑ°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[»óÇÑ°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 8,355  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ÀüÀÏ»óÇÑ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀüÀÏ»óÇÑ]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 8,475  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ÇÏÇÑ°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÇÏÇÑ°¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 4,505  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ÀüÀÏÇÏÇÑ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀüÀÏÇÏÇÑ]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 4,565  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : PER  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[PER]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[true]
+ok Text token : 
+				
+					N/A	
+					
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : EPS  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[EPS]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[true]
+ok Text token : 
+				
+					N/A	
+					
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : 52ÁÖ ÃÖ°í  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[52ÁÖ ÃÖ°í]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 6,775  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : 52ÁÖ ÃÖÀú  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[52ÁÖ ÃÖÀú]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[true]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11] moreAttr[false]
+ok Text token : 5,220  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ½Ã°¡ÃÑ¾×  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[½Ã°¡ÃÑ¾×]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[p11] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah] moreAttr[true]
+ok Text token : 70  TH[]TD[]
+ok Text token : ¾ï¿ø  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : »óÀåÁÖ½Ä¼ö  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[»óÀåÁÖ½Ä¼ö]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[p11] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah] moreAttr[false]
+ok Text token : 1,080,000  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ¿Ü±¹ÀÎÇöÀç  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¿Ü±¹ÀÎÇöÀç]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[p11] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah] moreAttr[false]
+ok Text token : 0  TH[]TD[]
+ok Text token : ÃµÁÖ  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[title] moreAttr[false]
+foundTH : true
+ok Text token : ÀÚº»±Ý  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀÚº»±Ý]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[p11] moreAttr[false]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah] moreAttr[false]
+ok Text token : 0  TH[]TD[]
+ok Text token : ¹é¸¸  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+		  TH[]TD[]
+ok Text token : 
+			
+				
+				
+				
+					  TH[]TD[]
+StartTag - tagName[div], tagAttr[style], tagAttrVal[float:left;width:290px;] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[h4], tagAttr[class], tagAttrVal[tlline2] moreAttr[false]
+StartTag - tagName[strong], tagAttr[style], tagAttrVal[float:left;] moreAttr[false]
+ok Text token : È£°¡   TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[normal] moreAttr[false]
+ok Text token : (  TH[]TD[]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 20  TH[]TD[]
+ok Text token : ºÐ Áö¿¬)  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[span], tagAttr[style], tagAttrVal[float:right; padding-right:10px;] moreAttr[false]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/images5/arrow_01.gif] moreAttr[true]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[?code=102960&asktype=5] moreAttr[true]
+ok Text token : 5´Ü°è  TH[]TD[]
+ok Text token :    TH[]TD[]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/images5/arrow_01.gif] moreAttr[true]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[?code=102960&asktype=10] moreAttr[true]
+ok Text token : 10´Ü°è  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[È£°¡ Á¤º¸¿¡ °üÇÑÇ¥ÀÔ´Ï´Ù.] moreAttr[true]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : È£°¡  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[tbody], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[th], tagAttr[], tagAttrVal[] moreAttr[false]
+foundTH : true
+ok Text token : ¸ÅµµÀÜ·®  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¸ÅµµÀÜ·®]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[th], tagAttr[], tagAttrVal[] moreAttr[false]
+foundTH : true
+ok Text token : ¸ÅµµÈ£°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¸ÅµµÈ£°¡]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[th], tagAttr[], tagAttrVal[] moreAttr[false]
+foundTH : true
+ok Text token : 
+					  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[]
+StartTag - tagName[th], tagAttr[], tagAttrVal[] moreAttr[false]
+foundTH : true
+ok Text token : ¸Å¼öÈ£°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¸Å¼öÈ£°¡]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[th], tagAttr[], tagAttrVal[] moreAttr[false]
+foundTH : true
+ok Text token : ¸Å¼öÀÜ·®  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¸Å¼öÀÜ·®]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[2] moreAttr[true]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[width], tagAttrVal[1] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+							
+								
+								1,131
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+							
+								
+								6,500
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+							
+								
+								3,240
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+							
+								
+								6,475
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+							
+								
+								3,492
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+							
+								
+								6,470
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+							
+								
+								3,999
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+							
+								
+								6,465
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					
+					  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						
+							
+							3,675
+							
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg01] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						
+							
+							6,460
+						
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[2] moreAttr[true]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[2] moreAttr[true]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[3] moreAttr[true]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[height], tagAttrVal[2] moreAttr[true]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						
+							
+							6,445
+						
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						
+							
+							44
+						
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+							
+								
+								6,440
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+							
+								
+								2,100
+								
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+							
+								
+								6,435
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+							
+								
+								337
+								
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+							
+								
+								6,430
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+							
+								
+								4
+								
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+							
+								
+								6,405
+							
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[num bg02] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+							
+								
+								2
+								
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					
+					  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[td], tagAttr[height], tagAttrVal[5] moreAttr[true]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+								
+			
+
+			  TH[]TD[]
+StartTag - tagName[table], tagAttr[cellspacing], tagAttrVal[0] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[tbody], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[width], tagAttrVal[71] moreAttr[true]
+StartTag - tagName[strong], tagAttr[class], tagAttrVal[tah p11 nv01] moreAttr[false]
+ok Text token : 
+					
+						
+						16,216
+					
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[class], tagAttrVal[bor] moreAttr[false]
+foundTH : true
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÀÜ·®ÇÕ°è  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀÜ·®ÇÕ°è]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[width], tagAttrVal[71] moreAttr[true]
+foundTH : true
+StartTag - tagName[strong], tagAttr[class], tagAttrVal[tah p11 red01] moreAttr[false]
+ok Text token : 
+					
+						
+						18,541
+					
+				  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[18,541]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[iframe], tagAttr[name], tagAttrVal[day] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[iframe], tagAttr[name], tagAttrVal[day] moreAttr[true]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+	  TH[]TD[]
+ok Text token : 
+	
+	
+
+
+
+
+  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[aside] moreAttr[false]
+ok Text token : 
+	  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[bg_line] moreAttr[false]
+ok Text token : 
+	  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[aside_invest_info] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[tab_invest] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:showArea('tab_invest', 'tab tab_invest1', 'tab_con1', 'tab_con2')] moreAttr[true]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÅõÀÚÁ¤º¸  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:showArea('tab_invest', 'tab tab_invest2', 'tab_con2', 'tab_con1')] moreAttr[true]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : È£°¡10´Ü°è  TH[]TD[]
+ok Text token : 		
+		  TH[]TD[]
+ok Text token : 
+		
+		
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[tab_con1] moreAttr[true]
+ok Text token : 
+		
+			
+				  TH[]TD[]
+StartTag - tagName[h3], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+ok Text token : ÅõÀÚÁ¤º¸  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[first] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[½Ã°¡ÃÑ¾× Á¤º¸] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ½Ã°¡ÃÑ¾×  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[strong] moreAttr[false]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : ½Ã°¡ÃÑ¾×  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[½Ã°¡ÃÑ¾×]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[em], tagAttr[id], tagAttrVal[_market_sum] moreAttr[false]
+ok Text token : 
+									
+									
+										
+											70
+										
+										
+									
+								  TH[]TD[]
+ok Text token : ¾ï¿ø
+							  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : »óÀåÁÖ½Ä¼ö  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[»óÀåÁÖ½Ä¼ö]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 1,080,000  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : 52ÁÖÃÖ°í  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[52ÁÖÃÖ°í]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[bar] moreAttr[false]
+ok Text token : l  TH[]TD[]
+ok Text token : ÃÖÀú  TH[]TD[]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 6,775  TH[]TD[]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[bar] moreAttr[false]
+ok Text token : l  TH[]TD[]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 5,220  TH[]TD[]
+ok Text token : 
+							  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[div], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[±âÃÊÁö¼ö Á¤º¸] moreAttr[true]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ±âÃÊÁö¼ö  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : ±âÃÊÁö¼ö  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[±âÃÊÁö¼ö]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[title], tagAttrVal[KRX ±â°èÀåºñ] moreAttr[false]
+ok Text token : KRX ±â°èÀåºñ  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : À¯Çü  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[À¯Çü]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[title], tagAttrVal[±¹³»ÁÖ½ÄÇü, ¼½ÅÍ] moreAttr[false]
+ok Text token : ±¹³»ÁÖ½ÄÇü, ¼½ÅÍ  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : »óÀåÀÏ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[»óÀåÀÏ]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 2008³â 05¿ù 29ÀÏ  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[div], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[ÆÝµåº¸¼ö Á¤º¸] moreAttr[true]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÆÝµåº¸¼ö  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : ÆÝµåº¸¼ö   TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÆÝµåº¸¼ö]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:togglePannel('helpPannel4');] moreAttr[true]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/item_renewal/btn_help.gif] moreAttr[true]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[lyr_section] moreAttr[false]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[helpPannel4] moreAttr[true]
+ok Text token : 
+									  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ETFµµ ÆÝµåÀÌ¹Ç·Î ¿î¿ëº¸¼ö, ÆÇ¸Åº¸¼ö,   TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ¼öÅ¹º¸¼ö, ÀÏ¹Ý»ç¹«°ü¸®º¸¼ö µîÀÌ ºÎ°úµË´Ï´Ù.   TH[]TD[]
+ok Text token : 
+									  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÀÌ·¯ÇÑ ¿¬°£º¸¼ö´Â ETFÀÇ NAV(¼øÀÚ»ê°¡Ä¡)»ó¿¡¼­ ¸ðµÎ ¹Ì¸® °è»êµÇ¾î °¡°Ý¿¡ ¹Ý¿µµË´Ï´Ù.  TH[]TD[]
+ok Text token : 
+									  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[arrow] moreAttr[false]
+ok Text token : 
+								  TH[]TD[]
+ok Text token : 
+							  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+						
+							
+							  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ¿¬  TH[]TD[]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 0.450%  TH[]TD[]
+ok Text token : 
+						
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : ÀÚ»ê¿î¿ë»ç  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀÚ»ê¿î¿ë»ç]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[title], tagAttrVal[»ï¼ºÀÚ»ê¿î¿ë] moreAttr[false]
+ok Text token : »ï¼ºÀÚ»ê¿î¿ë  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[gray] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[NAV Á¤º¸] moreAttr[true]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : NAV  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token :  
+		                	  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : NAV   TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[NAV]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:togglePannel('helpPannel5');] moreAttr[true]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/item_renewal/btn_help.gif] moreAttr[true]
+ok Text token : 
+			                	  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[lyr_section] moreAttr[false]
+ok Text token : 
+			                		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[helpPannel5] moreAttr[true]
+ok Text token : 
+				                		  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ETFÀÇ ÁÖ½Ä, Çö±Ý, ¹è´ç, ÀÌÀÚ¼Òµæ µîÀ» Æ÷ÇÔÇÏ¿© °è»êÇÑ ¼øÀÚ»ê°¡Ä¡·Î, ETFÀÇ ÀÌ·ÐÀûÀÎ ÀûÁ¤°¡°ÝÀÔ´Ï´Ù. ETFÀÇ ½ÃÀå°¡°ÝÀº NAV¿¡ ¼ö·ÅÇØ ¿òÁ÷ÀÌ´Â °ÍÀÌ Á¤»óÀûÀÌ¶ó°í ÇÒ ¼ö ÀÖ½À´Ï´Ù.  TH[]TD[]
+ok Text token : 
+				                		  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÀåÁß¿¡´Â 1ºÐ´ÜÀ§·Î ½Ç½Ã°£ ÃßÁ¤ NAV¸¦ Á¦°øÇØµå¸®¸ç, ´Ü ÇØ¿ÜÁö¼ö¸¦ ±âÃÊ·Î ÇÏ´Â ETF´Â NAV°¡ Á¦°øµÇÁö ¾Ê½À´Ï´Ù.  TH[]TD[]
+ok Text token : 
+				                		  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[arrow] moreAttr[false]
+ok Text token : 
+			                		  TH[]TD[]
+ok Text token : 
+			                	  TH[]TD[]
+ok Text token : 
+		                	  TH[]TD[]
+ok Text token : 
+		                	
+								
+								  TH[]TD[]
+StartTag - tagName[td], tagAttr[id], tagAttrVal[on_board_last_nav] moreAttr[false]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 6,524  TH[]TD[]
+ok Text token : 
+							
+		                  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[div], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[1°³¿ù ¼öÀÍ·ü Á¤º¸] moreAttr[false]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 1°³¿ù ¼öÀÍ·ü  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+StartTag - tagName[tbody], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : 1°³¿ù ¼öÀÍ·ü  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[1°³¿ù ¼öÀÍ·ü]
+ok Text token : 
+								
+									
+									
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				+1.08%
+				  TH[]TD[]
+ok Text token : 
+			
+								
+							  TH[]TD[]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : 3°³¿ù ¼öÀÍ·ü  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[3°³¿ù ¼öÀÍ·ü]
+ok Text token : 
+								
+									
+									
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				+3.84%
+				  TH[]TD[]
+ok Text token : 
+			
+								
+							  TH[]TD[]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : 6°³¿ù ¼öÀÍ·ü  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[6°³¿ù ¼öÀÍ·ü]
+ok Text token : 
+								
+									
+									
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				+4.84%
+				  TH[]TD[]
+ok Text token : 
+			
+								
+							  TH[]TD[]
+ok Text token : 
+							  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+								  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[false]
+foundTH : true
+ok Text token : 1³â ¼öÀÍ·ü  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[1³â ¼öÀÍ·ü]
+ok Text token : 
+								
+									
+									
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				+22.23%
+				  TH[]TD[]
+ok Text token : 
+			
+								
+							  TH[]TD[]
+ok Text token : 
+						  TH[]TD[]
+ok Text token : 
+					  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				
+			
+		  TH[]TD[]
+ok Text token : 
+		
+		
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[tab_con2] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[h3], tagAttr[class], tagAttrVal[blind] moreAttr[false]
+ok Text token : È£°¡ 10´Ü°è  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[È£°¡10´Ü°è Á¤º¸] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : È£°¡ 10´Ü°è  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[col] moreAttr[false]
+foundTH : true
+ok Text token : ¸ÅµµÀÜ·®  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¸ÅµµÀÜ·®]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[col] moreAttr[false]
+foundTH : true
+ok Text token : È£°¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[È£°¡]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[txt_color] moreAttr[false]
+ok Text token : (20ºÐÁö¿¬)  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[col] moreAttr[true]
+foundTH : true
+ok Text token : ¸Å¼öÀÜ·®  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¸Å¼öÀÜ·®]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[3] moreAttr[true]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					100
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,735
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					15
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,580
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					44
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,565
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					20
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,550
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					500
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,515
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					1,131
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,500
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					3,240
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,475
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					3,492
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,470
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					3,999
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,465
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_down strong] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					3,675
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,460
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[3] moreAttr[true]
+ok Text token : 				
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up strong] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 				
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,445
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					44
+				
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,440
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					2,100
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,435
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					337
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,430
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					4
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,405
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					2
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,400
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					4,004
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,395
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					3,995
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,390
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					4,000
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,385
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					3,955
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				
+					
+					6,370
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[td_r] moreAttr[false]
+ok Text token : 
+				
+					
+					100
+				
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+ok Text token : 
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[3] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[class], tagAttrVal[total] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[f_down] moreAttr[false]
+ok Text token : 
+					
+						
+						16,216
+					
+				  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÀÜ·®ÇÕ°è  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[class], tagAttrVal[f_up] moreAttr[false]
+ok Text token : 
+					
+						
+						18,541
+					
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+	  TH[]TD[]
+ok Text token : 
+	
+	  TH[]TD[]
+ok Text token : 
+	
+		
+	
+
+
+
+
+
+  TH[]TD[]
+StartTag - tagName[script], tagAttr[language], tagAttrVal[javascript] moreAttr[true]
+ok Text token : 
+		
+		
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[aside_section cop_list] moreAttr[false]
+ok Text token : 
+			
+				
+					  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[tab_search] moreAttr[true]
+ok Text token : 
+				
+				
+			
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:showRecent('tab_search', 'tab tab_search1', '102960', 'recent')] moreAttr[true]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÃÖ±Ù°Ë»ö  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:showRecent('tab_search', 'tab tab_search2', '102960', 'mystock')] moreAttr[true]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : My stock  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[h2], tagAttr[class], tagAttrVal[blind] moreAttr[true]
+ok Text token : ÃÖ±ÙÁ¶È¸  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+			
+		
+		  TH[]TD[]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/template] moreAttr[true]
+ok Text token : 
+			&lt;div class=&#34;no_result&#34;&gt;
+				&lt;img src=&#34;http://static.naver.net/nfinance/img/no_result_aside1_v2.gif&#34; width=&#34;144&#34; height=&#34;13&#34; border=&#34;0&#34; alt=&#34;ÃÖ±Ù Á¶È¸µÈ Á¾¸ñÀÌ ¾ø½À´Ï´Ù.&#34; class=&#34;noresult_txt1&#34;&gt;
+			&lt;/div&gt;
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/template] moreAttr[true]
+ok Text token : 
+			&lt;div class=&#34;no_result&#34;&gt;
+				&lt;map name=&#34;no_result_aside2&#34;&gt;
+				&lt;area shape=&#34;rect&#34; coords=&#34;6,38,107,52&#34; href=&#34;javascript:naver_login()&#34; alt=&#34;My stock ·Î±×ÀÎ&#34;&gt;
+				&lt;/map&gt;
+				&lt;img src=&#34;http://imgstock.naver.net/item_renewal/no_result_aside2.gif&#34; width=&#34;116&#34; height=&#34;53&#34; border=&#34;0&#34; usemap=&#34;#no_result_aside2&#34; title=&#34;&#34; alt=&#34;·Î±×ÀÎÇÏ½Ã¸é µî·ÏÇÏ½Å Á¾¸ñÀÇ ½Ã¼¼°¡ Á¦°øµË´Ï´Ù.&#34; class=&#34;noresult_txt2&#34;&gt;
+			&lt;/div&gt;
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/template] moreAttr[true]
+ok Text token : 
+			&lt;div class=&#34;no_result&#34;&gt;
+				&lt;map name=&#34;no_result_aside3&#34;&gt;
+				&lt;area shape=&#34;rect&#34; coords=&#34;11,38,125,52&#34; href=&#34;http://finance.naver.com/mystock/&#34; alt=&#34;My stock ¹Ù·Î°¡±â&#34;&gt;
+				&lt;/map&gt;
+				&lt;img src=&#34;http://imgstock.naver.net/item_renewal/no_result_aside3.gif&#34; width=&#34;137&#34; height=&#34;53&#34; border=&#34;0&#34; usemap=&#34;#no_result_aside3&#34; title=&#34;&#34; alt=&#34;My Stock¿¡ °ü½ÉÁ¾¸ñÀ» µî·ÏÇÏ½Ã¸é ½Ã¼¼°¡ Á¦°øµË´Ï´Ù.&#34; class=&#34;noresult_txt3&#34;&gt;
+			&lt;/div&gt;
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/template] moreAttr[true]
+ok Text token : 
+			{if type == &#34;recent&#34;}
+				{set listNclicksId=&#34;rch.2&#34;}
+				&lt;table summary=&#34;ÃÖ±ÙÁ¶È¸ ¸®½ºÆ®&#34; class=&#34;con_search1&#34;&gt;
+				&lt;caption&gt;ÃÖ±ÙÁ¶È¸&lt;/caption&gt;
+					&lt;colgroup&gt;&lt;col&gt;&lt;col width=&#34;50&#34;&gt;&lt;col width=&#34;72&#34;&gt;&lt;/colgroup&gt;
+			{else}
+				{set listNclicksId=&#34;rch.4&#34;}
+				&lt;table summary=&#34;MY STOCK ¸®½ºÆ®&#34; class=&#34;con_search2&#34;&gt;
+				&lt;caption&gt;MY STOCK&lt;/caption&gt;
+					&lt;colgroup&gt;&lt;col&gt;&lt;col width=&#34;60&#34;&gt;&lt;col width=&#34;60&#34;&gt;&lt;/colgroup&gt;
+			{/if}
+				&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;¾÷Ã¼¸í&lt;/th&gt;
+					&lt;th scope=&#34;col&#34;&gt;°Å·¡·®&lt;/th&gt;
+					&lt;th scope=&#34;col&#34;&gt;ÀüÀÏºñ&lt;/th&gt;
+				&lt;/tr&gt;
+				&lt;/thead&gt;
+				{for index:itemList in item_list}
+					{if index == 5 || index == 10}
+						&lt;tr&gt;&lt;td colspan=&#34;3&#34; class=&#34;line&#34;&gt;&lt;/td&gt;&lt;/tr&gt;
+					{/if}
+					&lt;tr&gt;
+						&lt;th scope=&#34;row&#34;&gt;
+						&lt;a href=&#34;/item/main.nhn?code={=itemList.itemcode}&#34; onClick=&#34;clickcr(this, &#39;{=listNclicksId}&#39;, &#39;{=itemList.itemcode}&#39;, &#39;{=index + 1}&#39;, event);&#34; target=_top&gt;{=itemList.itemname}&lt;/a&gt;
+						&lt;/th&gt;
+						&lt;td id=&#34;nowVal_td_{=index}&#34;&gt;{=itemList.now_val}&lt;/td&gt;
+						&lt;td&gt;
+							{if itemList.risefall == &#39;1&#39;}
+								&lt;em class=&#34;f_up up_arrow&#34; id=&#34;changeVal_em_{=index}&#34;&gt;&lt;span id=&#34;changeVal_span_{=index}&#34;&gt;»óÇÑ°¡&lt;/span&gt;{=itemList.change_val}&lt;/em&gt;
+							{elseif itemList.risefall == &#39;2&#39;}
+								&lt;em class=&#34;f_up up&#34; id=&#34;changeVal_em_{=index}&#34;&gt;&lt;span id=&#34;changeVal_span_{=index}&#34;&gt;»óÇâ&lt;/span&gt;{=itemList.change_val}&lt;/em&gt;
+							{elseif itemList.risefall == &#39;4&#39;}
+								&lt;em class=&#34;f_down down_arrow&#34; id=&#34;changeVal_em_{=index}&#34;&gt;&lt;span id=&#34;changeVal_span_{=index}&#34;&gt;ÇÏÇÑ°¡&lt;/span&gt;{=itemList.change_val}&lt;/em&gt;
+							{elseif itemList.risefall == &#39;5&#39;}
+								&lt;em class=&#34;f_down down&#34; id=&#34;changeVal_em_{=index}&#34;&gt;&lt;span id=&#34;changeVal_span_{=index}&#34;&gt;ÇÏÇâ&lt;/span&gt;{=itemList.change_val}&lt;/em&gt;
+							{else}
+								&lt;em class=&#34;sam&#34; id=&#34;changeVal_em_{=index}&#34;&gt;&lt;span id=&#34;changeVal_span_{=index}&#34;&gt;º¸ÇÕ&lt;/span&gt;&lt;/em&gt;
+							{/if}
+							{if type == &#34;recent&#34;}
+								&lt;a href=&#34;javascript:deleteCodeFromRecent(&#39;{=itemList.itemcode}&#39;, &#39;{=code}&#39;, &#39;{=type}&#39;, &#39;{=page}&#39;)&#34;&gt;&lt;img src=&#34;http://imgstock.naver.net/item_renewal/btn_delete.gif&#34; alt=&#34;»èÁ¦&#34; width=&#34;11&#34; height=&#34;11&#34;&gt;&lt;/a&gt;
+							{/if}
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				{/for}
+			&lt;/table&gt;
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[recent_area] moreAttr[false]
+ok Text token : 
+			
+		
+		  TH[]TD[]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/template] moreAttr[true]
+ok Text token : 
+			&lt;span&gt;
+				{if prev_page != 0 || next_page != 0}
+				{if prev_page == 0}
+					&lt;a href=&#34;#&#34; onClick=&#34;clickcr(this, &#39;rch.5&#39;, &#39;&#39;, &#39;&#39;, event); return false;&#34;&gt;&lt;img src=&#34;http://static.naver.com/nfinance/btn_prev2.gif&#34; width=&#34;17&#34; height=&#34;15&#34; alt=&#34;ÀÌÀü&#34;&gt;&lt;/a&gt;
+				{elseif prev_page &gt; 0}
+					&lt;a href=&#34;javascript:movePage(&#39;{=code}&#39;, &#39;{=type}&#39;, &#39;{=prev_page}&#39;);&#34; onClick=&#34;clickcr(this, &#39;rch.5&#39;, &#39;&#39;, &#39;&#39;, event)&#34;&gt;&lt;img src=&#34;http://static.naver.com/nfinance/btn_prev2.gif&#34; width=&#34;17&#34; height=&#34;15&#34; alt=&#34;ÀÌÀü&#34;&gt;&lt;/a&gt;
+				{/if}
+				{if next_page == 0}
+					&lt;a href=&#34;#&#34; onClick=&#34;clickcr(this, &#39;rch.6&#39;, &#39;&#39;, &#39;&#39;, event); return false;&#34;&gt;&lt;img src=&#34;http://static.naver.com/nfinance/btn_next2.gif&#34; width=&#34;17&#34; height=&#34;15&#34; alt=&#34;´ÙÀ½&#34;&gt;&lt;/a&gt;
+				{elseif next_page &gt; 0}
+					&lt;a href=&#34;javascript:movePage(&#39;{=code}&#39;, &#39;{=type}&#39;, &#39;{=next_page}&#39;);&#34; onClick=&#34;clickcr(this, &#39;rch.6&#39;, &#39;&#39;, &#39;&#39;, event)&#34;&gt;&lt;img src=&#34;http://static.naver.com/nfinance/btn_next2.gif&#34; width=&#34;17&#34; height=&#34;15&#34; alt=&#34;´ÙÀ½&#34;&gt;&lt;/a&gt;
+				{/if}
+				{/if}
+			&lt;/span&gt;
+			&lt;a href=&#34;{if type == &#39;recent&#39;}/mystock/recentSearchItemList.nhn{else}/mystock/{/if}&#34; class=&#34;more&#34; onClick=&#34;clickcr(this, &#39;rch.7&#39;, &#39;&#39;, &#39;&#39;, event)&#34;&gt;´õº¸±â&lt;/a&gt;
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[recent_button] moreAttr[true]
+ok Text token : 
+		
+		
+			  TH[]TD[]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[false]
+ok Text token : 
+			var comment_code = &#34;102960&#34;;
+			var comment_type = &#34;recent&#34;;
+			var comment_page = &#34;1&#34;;
+				
+			  	jindo.$Fn(function() { 
+					movePage(&#39;102960&#39;, &#39;recent&#39;, &#39;1&#39;); 
+				}).attach(document,&#34;domready&#34;);
+							
+			  TH[]TD[]
+ok Text token : 
+	  TH[]TD[]
+ok Text token : 
+	
+
+		
+	  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[aside_section ad_banner] moreAttr[false]
+ok Text token :  
+          TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[da_240240] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[iframe], tagAttr[id], tagAttrVal[f240240] moreAttr[true]
+ok Text token : 
+    	  TH[]TD[]
+ok Text token :  
+      TH[]TD[]
+ok Text token :  
+		
+		
+	
+	  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[aside_section cop_list] moreAttr[false]
+ok Text token : 
+		   TH[]TD[]
+StartTag - tagName[h2], tagAttr[class], tagAttrVal[h_sub sub_tit9] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÀÎ±â°Ë»öÁ¾¸ñ  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[tab_fav] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:showArea('tab_fav', 'tab tab_fav1', 'fav_kospi', 'fav_kosdaq')] moreAttr[true]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÄÚ½ºÇÇ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:showArea('tab_fav', 'tab tab_fav2', 'fav_kosdaq', 'fav_kospi')] moreAttr[true]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÄÚ½º´Ú  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[h3], tagAttr[class], tagAttrVal[blind] moreAttr[true]
+ok Text token : ÄÚ½ºÇÇ  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[fav_kospi] moreAttr[true]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[ÄÚ½ºÇÇ ÀÎ±â°Ë»öÁ¾¸ñ ¸®½ºÆ®] moreAttr[true]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÄÚ½ºÇÇ ÀÎ±â°Ë»öÁ¾¸ñ  TH[]TD[]
+ok Text token : 		
+		  TH[]TD[]
+StartTag - tagName[colgroup], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[col], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[col], tagAttr[width], tagAttrVal[60] moreAttr[false]
+StartTag - tagName[col], tagAttr[width], tagAttrVal[86] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[thead], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[th], tagAttr[], tagAttrVal[] moreAttr[false]
+foundTH : true
+ok Text token : ¾÷Ã¼¸í  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¾÷Ã¼¸í]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[col] moreAttr[false]
+foundTH : true
+ok Text token : °Å·¡·®  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[°Å·¡·®]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[col] moreAttr[false]
+foundTH : true
+ok Text token : ÀüÀÏºñ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀüÀÏºñ]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=035420] moreAttr[true]
+ok Text token : NAVER  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[NAVER]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 832,000  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				8,000
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=000270] moreAttr[true]
+ok Text token : ±â¾ÆÂ÷  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[±â¾ÆÂ÷]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 38,800  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				600
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=001470] moreAttr[true]
+ok Text token : »ïºÎÅä°Ç  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[»ïºÎÅä°Ç]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 16,800  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_down down] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÇÏÇâ  TH[]TD[]
+ok Text token : 
+				2,850
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=066570] moreAttr[true]
+ok Text token : LGÀüÀÚ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[LGÀüÀÚ]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 81,400  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				2,300
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=010060] moreAttr[true]
+ok Text token : OCI  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[OCI]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 87,800  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				800
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[3] moreAttr[true]
+ok Text token : 
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=005930] moreAttr[true]
+ok Text token : »ï¼ºÀüÀÚ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[»ï¼ºÀüÀÚ]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 2,236,000  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_down down] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÇÏÇâ  TH[]TD[]
+ok Text token : 
+				61,000
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=000660] moreAttr[true]
+ok Text token : SKÇÏÀÌ´Ð½º  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[SKÇÏÀÌ´Ð½º]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 54,200  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_down down] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÇÏÇâ  TH[]TD[]
+ok Text token : 
+				1,500
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=251270] moreAttr[true]
+ok Text token : ³Ý¸¶ºí°ÔÀÓÁî  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[³Ý¸¶ºí°ÔÀÓÁî]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 143,500  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_down down] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÇÏÇâ  TH[]TD[]
+ok Text token : 
+				4,500
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=008770] moreAttr[true]
+ok Text token : È£ÅÚ½Å¶ó  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[È£ÅÚ½Å¶ó]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 62,400  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				1,000
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=006340] moreAttr[true]
+ok Text token : ´ë¿øÀü¼±  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[´ë¿øÀü¼±]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 1,525  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+					
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				230
+				  TH[]TD[]
+ok Text token : 
+			
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[fav_kosdaq] moreAttr[true]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[table], tagAttr[summary], tagAttrVal[ÄÚ½º´Ú ÀÎ±â°Ë»öÁ¾¸ñ ¸®½ºÆ®] moreAttr[true]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[caption], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÄÚ½ºÇÇ ÀÎ±â°Ë»öÁ¾¸ñ  TH[]TD[]
+ok Text token : 		
+		  TH[]TD[]
+StartTag - tagName[colgroup], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[col], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[col], tagAttr[width], tagAttrVal[50] moreAttr[false]
+StartTag - tagName[col], tagAttr[width], tagAttrVal[86] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[thead], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[th], tagAttr[], tagAttrVal[] moreAttr[false]
+foundTH : true
+ok Text token : ¾÷Ã¼¸í  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¾÷Ã¼¸í]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[col] moreAttr[false]
+foundTH : true
+ok Text token : °Å·¡·®  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[°Å·¡·®]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[col] moreAttr[false]
+foundTH : true
+ok Text token : ÀüÀÏºñ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀüÀÏºñ]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=035720] moreAttr[true]
+ok Text token : Ä«Ä«¿À  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[Ä«Ä«¿À]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 98,000  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				2,800
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=068270] moreAttr[true]
+ok Text token : ¼¿Æ®¸®¿Â  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¼¿Æ®¸®¿Â]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 94,800  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				800
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=217480] moreAttr[true]
+ok Text token : ¿¡½ºµð»ý¸í°ø..  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¿¡½ºµð»ý¸í°ø..]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 13,000  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				700
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=067170] moreAttr[true]
+ok Text token : ¿ÀÅØ  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¿ÀÅØ]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 14,300  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				400
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=008800] moreAttr[true]
+ok Text token : Çà³²»ýÈ°°Ç°­  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[Çà³²»ýÈ°°Ç°­]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 668  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up_arrow] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇÑ°¡  TH[]TD[]
+ok Text token : 
+				154
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+				  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[td], tagAttr[colspan], tagAttrVal[3] moreAttr[true]
+ok Text token : 
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=900120] moreAttr[true]
+ok Text token : ¾¾ÄÉÀÌ¿¡ÀÌÄ¡  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¾¾ÄÉÀÌ¿¡ÀÌÄ¡]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 1,565  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_down down] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÇÏÇâ  TH[]TD[]
+ok Text token : 
+				95
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=108790] moreAttr[true]
+ok Text token : ÀÎÅÍÆÄÅ©  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀÎÅÍÆÄÅ©]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 13,350  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[sam] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : º¸ÇÕ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=063080] moreAttr[true]
+ok Text token : °ÔÀÓºô  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[°ÔÀÓºô]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 56,700  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_down down] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÇÏÇâ  TH[]TD[]
+ok Text token : 
+				200
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=043340] moreAttr[true]
+ok Text token : ¿¡½ëÅ×Å©  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[¿¡½ëÅ×Å©]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 1,925  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[f_up up] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇâ  TH[]TD[]
+ok Text token : 
+				40
+				  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+			
+			  TH[]TD[]
+StartTag - tagName[tr], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[th], tagAttr[scope], tagAttrVal[row] moreAttr[true]
+foundTH : true
+StartTag - tagName[a], tagAttr[href], tagAttrVal[/item/main.nhn?code=024810] moreAttr[true]
+ok Text token : ÀÌÈ­Àü±â  TH[]TD[]
+Not a target th. target TH[í˜„ìž¬ê°€] curr[ÀÌÈ­Àü±â]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 405  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[td], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[em], tagAttr[class], tagAttrVal[sam] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : º¸ÇÕ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+	  TH[]TD[]
+ok Text token : 
+	
+	
+	
+	  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[aside_section rate] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[h2], tagAttr[class], tagAttrVal[h_sub sub_tit8] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ½Ã¼¼Á¤º¸¹Ù·Î°¡±â  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_index.nhn?code=KOSPI] moreAttr[true]
+ok Text token : ÄÚ½ºÇÇ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_index.nhn?code=KOSDAQ] moreAttr[true]
+ok Text token : ÄÚ½º´Ú  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_index.nhn?code=FUT] moreAttr[true]
+ok Text token : ¼±¹°  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/konex.nhn] moreAttr[true]
+ok Text token : ÄÚ³Ø½º  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_index.nhn?code=KPI200] moreAttr[true]
+ok Text token : ÄÚ½ºÇÇ200  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/etf.nhn] moreAttr[true]
+ok Text token : ETF  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_group.nhn?type=upjong] moreAttr[true]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ¾÷Á¾º°  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/theme.nhn] moreAttr[true]
+ok Text token : Å×¸¶º°  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_upper.nhn] moreAttr[true]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : »óÇÑ°¡  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_lower.nhn] moreAttr[true]
+ok Text token : ÇÏÇÑ°¡  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_rise.nhn] moreAttr[true]
+ok Text token : »ó½Â  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_steady.nhn] moreAttr[true]
+ok Text token : º¸ÇÕ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_fall.nhn] moreAttr[true]
+ok Text token : ÇÏ¶ô  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_quant.nhn] moreAttr[true]
+ok Text token : °Å·¡»óÀ§  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_quant_high.nhn] moreAttr[true]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ±ÞÁõ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_quant_low.nhn] moreAttr[true]
+ok Text token : ±Þ°¨  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_high_down.nhn] moreAttr[true]
+ok Text token : °í°¡´ëºñ±Þ¶ô  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_low_up.nhn] moreAttr[true]
+ok Text token : Àú°¡´ëºñ±Þµî  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_market_sum.nhn] moreAttr[true]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ½Ã°¡ÃÑ¾×»óÀ§  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_foreign_hold.nhn] moreAttr[true]
+ok Text token : ¿Ü±¹ÀÎº¸À¯ÇöÈ²  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_deal_rank.nhn] moreAttr[true]
+ok Text token : ¿Ü±¹ÀÎ¸Å¸Å  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_deal_rank.nhn?investor_gubun=1000] moreAttr[true]
+ok Text token : ±â°ü¸Å¸Å  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_program.nhn] moreAttr[true]
+ok Text token : ÇÁ·Î±×·¥¸Å¸Å  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/management.nhn] moreAttr[true]
+ok Text token : °ü¸®¡¤°¨¸®Á¾¸ñ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_new_stock.nhn] moreAttr[true]
+ok Text token : ½Å±Ô»óÀåÁ¾¸ñ  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_deposit.nhn] moreAttr[true]
+ok Text token : Áõ½ÃÀÚ±Ýµ¿Çâ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/sise_trans_style.nhn] moreAttr[true]
+ok Text token : ÅõÀÚÀÚº°¸Å¸Åµ¿Çâ  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/item_gap.nhn] moreAttr[true]
+ok Text token : °¸»ó½Â Á¾¸ñ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/item_gold.nhn] moreAttr[true]
+ok Text token : °ñµçÅ©·Î½º Á¾¸ñ  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/item_igyuk.nhn] moreAttr[true]
+ok Text token : ÀÌ°Ýµµ°ú¿­Á¾¸ñ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/item_overheating_1.nhn] moreAttr[true]
+ok Text token : ÅõÀÚ½É¸®°ú¿­Á¾¸ñ  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/item_overheating_2.nhn] moreAttr[true]
+ok Text token : »ó´ë°­µµ°ú¿­Á¾¸ñ  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/sise/] moreAttr[true]
+ok Text token : ´õº¸±â  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[hidden_line] moreAttr[false]
+ok Text token : 
+	  TH[]TD[]
+ok Text token : 
+	
+	
+	
+		
+		
+	
+	  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[aside_section notice] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[h2], tagAttr[class], tagAttrVal[h_sub sub_tit10] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : °øÁö»çÇ×  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[ul], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[] moreAttr[true]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[] moreAttr[true]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[] moreAttr[true]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[] moreAttr[true]
+ok Text token : 
+			
+				  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[] moreAttr[true]
+ok Text token : 
+			
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/notice.nhn] moreAttr[true]
+ok Text token : ´õº¸±â  TH[]TD[]
+ok Text token : 
+	  TH[]TD[]
+ok Text token : 
+	
+
+	  TH[]TD[]
+ok Text token : 
+	
+	  TH[]TD[]
+ok Text token : 
+  TH[]TD[]
+ok Text token : 
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+	  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[footer] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[ul], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[li], tagAttr[class], tagAttrVal[first] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://www.naver.com/rules/service.html] moreAttr[true]
+ok Text token : ÀÌ¿ë¾à°ü  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://finance.naver.com/rules.nhn] moreAttr[true]
+ok Text token : ±ÝÀ¶°Ô½ÃÆÇ ¿î¿µ¿øÄ¢  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://www.naver.com/rules/privacy.html] moreAttr[true]
+StartTag - tagName[strong], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : °³ÀÎÁ¤º¸Ã³¸®¹æÄ§  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://www.naver.com/rules/disclaimer.html] moreAttr[true]
+ok Text token : Ã¥ÀÓÀÇ ÇÑ°è¿Í ¹ýÀû°íÁö  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[li], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[https://help.naver.com/support/service/main.nhn?serviceNo=745] moreAttr[true]
+ok Text token : ±ÝÀ¶ °í°´¼¾ÅÍ  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[p], tagAttr[class], tagAttrVal[desc] moreAttr[false]
+ok Text token : ³×ÀÌ¹ö(ÁÖ)¿¡¼­ Á¦°øÇÏ´Â ±ÝÀ¶Á¤º¸´Â °¢ ÄÁÅÙÃ÷ Á¦°ø¾÷Ã¼  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[javascript:togglePannel('footerPanel0');] moreAttr[true]
+StartTag - tagName[img], tagAttr[src], tagAttrVal[http://imgstock.naver.net/item_renewal/btn_help.gif] moreAttr[true]
+ok Text token : ºÎÅÍ ¹Þ´Â Á¤º¸·Î ÅõÀÚ Âü°í »çÇ×ÀÌ¸ç, ¿À·ù°¡ ¹ß»ýÇÒ ¼ö ÀÖ°í Áö¿¬µÉ ¼ö  TH[]TD[]
+StartTag - tagName[br], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÀÖ½À´Ï´Ù. ³×ÀÌ¹ö(ÁÖ)´Â Á¦°øµÈ Á¤º¸¿¡ ÀÇÇÑ ÅõÀÚ°á°ú¿¡ ´ëÇÑ ¹ýÀûÀÎ Ã¥ÀÓÀ» ÁöÁö ¾Ê½À´Ï´Ù. °Ô½ÃµÈ Á¤º¸¸¦ ¹«´ÜÀ¸·Î ¹èÆ÷ÇÒ ¼ö ¾ø½À´Ï´Ù.  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[div], tagAttr[id], tagAttrVal[footerPanel0] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[strong], tagAttr[class], tagAttrVal[provider_layer__tit] moreAttr[false]
+ok Text token : ÄÁÅÙÃ÷ Á¦°ø¾÷Ã¼  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[div], tagAttr[class], tagAttrVal[provider_layer__txt] moreAttr[false]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÄÚ½ºÄÞ :   TH[]TD[]
+ok Text token : ½Ç½Ã°£ ÁÖ°¡Á¤º¸ ¹× ±¹³»½Ã¼¼Á¤º¸  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ¿ÍÀÌÁî¿¡ÇÁ¿£ :   TH[]TD[]
+ok Text token : ±â¾÷ ¹× Àç¹«Á¤º¸  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÀÌµ¥ÀÏ¸® :   TH[]TD[]
+ok Text token : ÇØ¿Ü ½Ã¼¼ ¹× ½ÃÀåÁöÇ¥ Á¤º¸  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : Á¦·ÎÀÎ :   TH[]TD[]
+ok Text token : ÆÝµåÁ¤º¸  TH[]TD[]
+ok Text token : 
+				  TH[]TD[]
+StartTag - tagName[p], tagAttr[], tagAttrVal[] moreAttr[false]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : ÇÑ±¹¿¹Å¹°áÁ¦¿ø :   TH[]TD[]
+ok Text token : ÁÖÁÖÃÑÈ¸ÀÏ ¹× ÀüÀÚÅõÇ¥ Á¤º¸  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[span], tagAttr[class], tagAttrVal[arrow] moreAttr[false]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+StartTag - tagName[address], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://www.navercorp.com/] moreAttr[true]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[em], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : Copyright Â©  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[a], tagAttr[href], tagAttrVal[http://www.navercorp.com/] moreAttr[true]
+ok Text token : NAVER Corp.  TH[]TD[]
+ok Text token : 
+			  TH[]TD[]
+StartTag - tagName[span], tagAttr[], tagAttrVal[] moreAttr[false]
+ok Text token : All Rights Reserved.  TH[]TD[]
+ok Text token : 
+		  TH[]TD[]
+ok Text token : 
+		
+		
+		
+	  TH[]TD[]
+ok Text token : 
+
+
+
+  TH[]TD[]
+StartTag - tagName[script], tagAttr[type], tagAttrVal[text/javascript] moreAttr[false]
+ok Text token : 
+function isVisible(obj) {
+    if (obj == document) return true
+ 
+    if (!obj) return false
+    if (!obj.parentNode) return false
+    if (obj.style) {
+        if (obj.style.display == &#39;none&#39;) return false
+        if (obj.style.visibility == &#39;hidden&#39;) return false
+    }
+ 
+    if (window.getComputedStyle) {
+        var style = window.getComputedStyle(obj, &#34;&#34;)
+        if (style.display == &#39;none&#39;) return false
+        if (style.visibility == &#39;hidden&#39;) return false
+    }
+ 
+    var style = obj.currentStyle
+    if (style) {
+        if (style[&#39;display&#39;] == &#39;none&#39;) return false
+        if (style[&#39;visibility&#39;] == &#39;hidden&#39;) return false
+    }
+ 
+    return isVisible(obj.parentNode)
+}
+
+function isChildOf(myobj, containerObj) {
+	while(myobj != undefined) {
+		if (myobj == document.body) {
+			break;
+		} 
+		if (myobj == containerObj) {
+			return true;
+		}
+		myobj = myobj.parentElement;
+	}
+	return false;	
+}
+
+function gnbLayerClose(e){
+	var target = e.target ? e.target : e.srcElement;
+	if (isVisible(document.getElementById(&#39;gnb_service_lyr&#39;)) || isVisible(document.getElementById(&#39;gnb_notice_lyr&#39;)) ||isVisible(document.getElementById(&#39;gnb_my_lyr&#39;)) ) {
+		if (!isChildOf(target, document.getElementById(&#39;gnb&#39;))) {
+			gnbAllLayerClose();
+		}
+	}	
+}
+
+var isIE = (navigator.userAgent.toLowerCase().indexOf(&#34;msie&#34;)!=-1 &amp;&amp; window.document.all) ? true:false;
+if (isIE) {
+	document.attachEvent(&#39;onmousedown&#39;, gnbLayerClose);
+} else {
+	window.addEventListener(&#39;mousedown&#39;, gnbLayerClose);
+}
+
+function showPannel(layerId){
+	var layer = jindo.$(layerId);
+	layer.style.display=&#39;block&#39;;
+	
+	if (layerId == &#34;summary_lyr&#34;) {
+		var layerHeight = jindo.$Element(layer).height();
+		jindo.$Element(&#34;summary_ifr&#34;).height(layerHeight);
+	}
+}
+
+function hidePannel(layerId){
+	var layer = jindo.$(layerId);
+	layer.style.display=&#39;none&#39;;
+}
+  TH[]TD[]
+ok Text token : 
+  TH[]TD[]
+ok Text token : 
+
+  TH[]TD[]
+StartTag - tagName[script], tagAttr[language], tagAttrVal[javascript] moreAttr[true]
+ok Text token : 
+jindo.$Fn(doUpdateInformation).attach(document, &#39;domready&#39;);
+  TH[]TD[]
+ok Text token : 
+  TH[]TD[]
+ok Text token : 
+  TH[]TD[]
+ok Text token : 
+  TH[]TD[]
