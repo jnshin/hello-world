@@ -1,5 +1,10 @@
 package main
 
+/*
+  공부 삼아 만들어 보고 든 생각인데, 이렇게 고생해 tokenizer 쓸 필요없이
+	goquery를 사용하면 쉽게 처리된다.
+*/
+
 import (
 	"bytes"
 	"fmt"
