@@ -1,0 +1,16 @@
+github.com/golang/glog
+
+log level을 지정할 수 있고, severity에 따라 기록되는 즉시 또는 buffer 되도록한다.
+대량의 log를 정보 목적으로 기록할 경우 fmt를 사용하는 것에 비해 성능 및 관리상 많은 이점이 있다.
+
+
+* 초기화 필요
+
+  glog 자체가 여러개의 기본 옵션이 존재하고, 설정에 따라 'Info'성 데이터의 기록이 달라 반드시 초기화해야한다. 만약 초기화 하지 않고 glog.Info를 호출하면 경고성 로그가 화면 가득 나올지 모른다.
+
+* flush 필요성.
+
+  glog.Info를 포함해 glogl.V(*).* 는 glog를 통해 기록했다 하더라도 file에 즉시 기록되는 것이 아니다. 실행이 종료되어도 기록되지 않을 수 있다. disk에 flush되도록 glog.flush를 종료 시점이나 주요 시점에 호출해 준다.
+  flush를 호출하지 않으면 정보성 기록들은 30초 interval로 logging.flushDaemon flush된다. 그렇지만 마지막 flush에서 종료 사이에 발생된 기록은 사라질 수 있다.
+
+  flush 되는 log량과 log file이 기록되는 disk 성능에 따라 log flush가 생각보다 장시간 걸릴 수 있고(소량의 로그는 관계 없겠지만), log를 flush하는 동작 mutex를 잡고 있어, 다른 코드에서 glog의 호출이 block될 수 있다. 따라서 timeout base보다는 종종 flush 해 줄 것.
