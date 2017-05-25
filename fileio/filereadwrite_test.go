@@ -7,17 +7,21 @@ import (
 	"testing"
 )
 
-var sampleFile string = "sampledata.txt"
+var sampleFile = "sampledata.txt"
 
 func TestFetchLines(t *testing.T) {
 	var dataChan <-chan string
 	var counter int
+	var err error
 
-	dataChan = FetchLines(sampleFile, "euckr")
+	dataChan, err = FetchLines(sampleFile, "euckr")
+	if err != nil {
+		log.Fatalln("Error : " + err.Error())
+	}
 
 	counter = 0
 	for a := range dataChan {
-		counter += 1
+		counter++
 		fmt.Printf("Data - [%v]\n", a)
 	}
 }
