@@ -19,6 +19,20 @@ import (
 	"golang.org/x/text/transform"
 )
 
+/* dumpDocByGoquery :
+
+ */
+func dumpDocByGoquery(url string) {
+
+}
+
+func FetchURL(url string, code string) {
+
+}
+
+/* dumpToken : HTML page를 tokenize해 tag 와 attribute를 기반으로 찾아가는 sample.
+   차라리 goquery를 사용하자.
+*/
 func dumpToken(url string) {
 
 	client := &http.Client{Timeout: 4 * time.Second}

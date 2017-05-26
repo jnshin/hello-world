@@ -1,0 +1,13 @@
+github.com/PuerkitoBio/goquery
+
+goquery는 jQuery syntax를 그대로 사용한다.
+
+기본적인 jQuery syntax
+
+* HTMLTag 선택 : $('img')     $('table')  처럼 tag 이름을 직접사용
+* CSS class 이름 선택 : $('.test')  '.'을 시작으로 class 를 지정. class는 non-unique
+* ID 선택 : $('#userid')  '#' 을 시작으로 id 를 지정. id는 page에 unique한 특징 있음.
+* 연속된 특성 나열 : $('table .my_class')  table 요소 아래 딸린 요소 중 my_class 를 지정
+                   $('div [name="myName"]') <div> 요소 중 name="myName" 인 것을 지정
+
+참조 : http://hyeonstorage.tistory.com/1
