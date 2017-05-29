@@ -1,4 +1,6 @@
-package main
+package stock
+
+// 아래 코드들은 무시해 주세요. 아마도 곧 삭제.
 
 /*
   공부 삼아 만들어 보고 든 생각인데, 이렇게 고생해 tokenizer 쓸 필요없이
@@ -39,7 +41,7 @@ func dumpToken(url string) {
 	link := url
 	resp, err := client.Get(link)
 
-	for err != nil {
+	if err != nil {
 		log.Fatal(err)
 	}
 
@@ -168,6 +170,9 @@ func fetchTHTD(doc *html.Tokenizer, thStr string) (thVal, tdVal string) {
 
 }
 
+/*
 func main() {
 	dumpToken("http://finance.naver.com/item/sise.nhn?code=102960")
 }
+
+*/
