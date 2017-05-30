@@ -1,29 +1,28 @@
 package stock
 
-import "net/url"
+import (
+	"fmt"
+	"net/url"
+)
 
 type Stock struct {
-	종목코드 int      // 종목코드
-	URL  *url.URL // data source URL
-	종목명  string   // 종목명
-	현재가  int      // 현재가 또는 종가
-	전일가  int      // 전일가
-	시가   int      // 시가
-	고가   int      // 고가
-	저가   int      // 저가
-	상한가  int      // 상한가
-	하한가  int      // 하한가
-	거래량  int      // 거래량
+	Code          int      // 종목코드
+	Url           *url.URL // data source URL
+	Name          string   // 종목명
+	Market        string   // 코스피 / 코스닥
+	Price         int      // 현재가 또는 종가
+	YPrice        int      // 전일가
+	Open          int      // 시가
+	DayHigh       int      // 고가
+	DayLow        int      // 저가
+	DayUpperLimit int      // 상한가
+	DayLowerLimit int      // 하한가
+	Volume        int      // 거래량
 }
 
-type StockInterface interface {
-	종목코드는() int
-	종목명는() string
-	현재가는() int
-	시가는() int
-	고가는() int
-	저가는() int
-	거래량은() int
+type StockI interface {
 }
 
-type 
+func (e *Stock) ToString() string {
+	return fmt.Sprintf("%s(%d) : 현재가 %v원, 가격폭 %v~%v 상하한[%v,%v] 거래량 %v주\n", e.Name, e.Code, e.Price, e.DayLow, e.DayHigh, e.DayLowerLimit, e.DayUpperLimit, e.Volume)
+}
