@@ -3,7 +3,6 @@ package etf
 import (
 	"fmt"
 	"net/http"
-	"net/url"
 	"strconv"
 	"strings"
 	"time"
@@ -22,7 +21,7 @@ type Etf struct {
 	// history_url *url.URL  // history는 다음에하자.
 	Brand        string // Brand. 운영사 코드
 	ExpenseRatio float32
-	Nav          float32 // id on_board_last_nav
+	Nav          int // id on_board_last_nav
 	Perf1Mon     float32
 	Perf3Mon     float32
 	Perf6Mon     float32
@@ -36,7 +35,12 @@ func NewEtf(code int) (*Etf, error) {
 	return e, err
 }
 
-/* FetchEtf : naver에서 ETF의 시세 및 Nav를 가져온다. */
+/* FetchEtf : naver stock에서 ETF의 시세 및 Nav를 가져온다.
+   argument : e는 null이 아니어야하며, e.Code에 조회할 대상의 주식 코드를 미리 넣어야한다.
+   보통의 경우 Etf.NewEtf() 를 통해 호출될 것을 기대한다.
+   parse 과정에 문제가 있다면 glog v level 2 이상을 설정할 경우 info log에 parse 대상을 기록한다.
+
+*/
 func FetchEtf(e *Etf) error {
 
 	var parseFailed bool = false
@@ -47,11 +51,16 @@ func FetchEtf(e *Etf) error {
 		glog.V(2).Info("start FetchEtf : ", e.Code)
 	}
 
-	proxyUrl, err := url.Parse("http://www-proxy.jp.oracle.com:80")
+	/*
+		proxyUrl, err := url.Parse("http://www-proxy.jp.oracle.com:80")
 
-	// http client는 사용 환경에 따라 설정이 다를 수 있으니, 이렇게 코드에서 일방적으로 설정하는 것은 옳지 않아 보임.
-	client := &http.Client{Timeout: 4 * time.Second, Transport: &http.Transport{Proxy: http.ProxyURL(proxyUrl)}}
+	*/
 
+	// client := &http.Client{Timeout: 4 * time.Second, Transport: &http.Transport{Proxy: http.ProxyURL(proxyUrl)}}
+	client := &http.Client{Timeout: 4 * time.Second}
+
+	/* naver의 다른 페이지가 아닌 coinfo.nhn 을 사용한 것은 ETF history data를 가져올 목적으로 선택 했음.
+	   history data를 parse하는 것은 나중에... */
 	target := "http://finance.naver.com/item/coinfo.nhn?code=" + strconv.Itoa(e.Code)
 	glog.V(2).Info("조회대상 URL : ", target)
 	resp, err := client.Get(target)
@@ -76,6 +85,7 @@ func FetchEtf(e *Etf) error {
 		parseFailed = true
 	}
 
+	/* stock.Stock 의 기본 값 채우기 */
 	doc.Find("dl").First().Children().Each(func(i int, s *goquery.Selection) {
 		contents, err := s.Html()
 		if err != nil {
@@ -168,9 +178,60 @@ func FetchEtf(e *Etf) error {
 
 		}
 
-		glog.Info("", i, " - ", contents)
-		fmt.Printf("%d - %s\n", i, contents)
-	})
+		glog.V(2).Info("", i, " - ", contents)
+
+	}) /* stock.Stock 기본값 채우기 끝 */
+
+	/* Nav 가져오기 */
+	doc.Find("#on_board_last_nav").Children().Children().Each(func(i int, s *goquery.Selection) {
+
+		contents, err := s.Html()
+		if err != nil {
+			glog.Errorf("goquery failed at Html(), Nav 가져오기 : %v\n", err.Error())
+			parseFailed = true
+			return
+		}
+
+		// fmt.Printf("[%v]\n", contents)
+
+		/* 빈줄은 무시하자 */
+		if len(contents) == 0 {
+			return
+		}
+
+		e.Nav, err = jnshin.Cntoi(contents)
+		if err != nil {
+			glog.Errorf("Parsing Nav 실패. [%s] : %v\n", contents, err.Error())
+			parseFailed = true
+		}
+
+	}) /* End of 'Nav 가져오기' */
+
+	/* 펀드보수 가져오기 */
+	doc.Find("[summary='펀드보수 정보']").Find("td").Find("em").Each(func(i int, s *goquery.Selection) {
+
+		contents, err := s.Html()
+		if err != nil {
+			glog.Errorf("goquery failed at Html(), 펀드보수 가져오기 : %v\n", err.Error())
+			parseFailed = true
+			return
+		}
+
+		// fmt.Printf("[%v]\n", contents)
+
+		/* 빈줄은 무시하자 */
+		if len(contents) == 0 {
+			return
+		}
+
+		tmpER, err := jnshin.Cntof(strings.Replace(contents, "%", "", -1))
+		if err != nil {
+			glog.Errorf("Parsing 펀드보수 실패. [%s] : %v\n", contents, err.Error())
+			parseFailed = true
+		}
+		e.ExpenseRatio = float32(tmpER)
+
+	}) /* End of '펀드보수 가져오기' */
 
 	glog.Flush()
 
@@ -179,4 +240,8 @@ func FetchEtf(e *Etf) error {
 	} else {
 		return nil
 	}
+} /* End of FetchEtf */
+
+func (e *Etf) ToString() string {
+	return e.Stock.ToString() + fmt.Sprintf("Nav %d ExpenseRatio %4.2f%%", e.Nav, e.ExpenseRatio)
 }
