@@ -233,6 +233,53 @@ func FetchEtf(e *Etf) error {
 
 	}) /* End of '펀드보수 가져오기' */
 
+	/* 수익률 가져오기 */
+	doc.Find("[summary='1개월 수익률 정보']").Find("th").Each(func(i int, s *goquery.Selection) {
+
+		tmpCont, err := s.Html()
+		if err != nil {
+			glog.Errorf("goquery failed at Html(), 개월수익률 가져오기 : %v\n", err.Error())
+			parseFailed = true
+			return
+		}
+
+		var contents string
+		switch tmpCont {
+		case "1개월 수익률", "3개월 수익률", "6개월 수익률", "1년 수익률":
+			contents, err = s.Next().Children().Html()
+			contents = strings.TrimSpace(contents)
+			// fmt.Printf("[%v - %v]\n", tmpCont, contents)
+		default:
+			// fmt.Printf("값 무시 : [%v]\n", tmpCont)
+			return
+		}
+
+		// fmt.Printf("[%v]\n", contents)
+
+		/* 빈줄은 무시하자 */
+		if len(contents) == 0 {
+			return
+		}
+
+		tmpER, err := jnshin.Cntof(strings.Replace(contents, "%", "", -1))
+		if err != nil {
+			glog.Errorf("Parsing 1개월수익률 실패. [%s] : %v\n", contents, err.Error())
+			parseFailed = true
+		}
+
+		switch tmpCont {
+		case "1개월 수익률":
+			e.Perf1Mon = float32(tmpER)
+		case "3개월 수익률":
+			e.Perf3Mon = float32(tmpER)
+		case "6개월 수익률":
+			e.Perf6Mon = float32(tmpER)
+		case "1년 수익률":
+			e.Perf12Mon = float32(tmpER)
+		}
+
+	}) /* End of '펀드보수 가져오기' */
+
 	glog.Flush()
 
 	if parseFailed {
@@ -243,5 +290,6 @@ func FetchEtf(e *Etf) error {
 } /* End of FetchEtf */
 
 func (e *Etf) ToString() string {
-	return e.Stock.ToString() + fmt.Sprintf("Nav %d ExpenseRatio %4.2f%%", e.Nav, e.ExpenseRatio)
+	return e.Stock.ToString() + fmt.Sprintf("Nav %d ExpenseRatio %4.2f%% EarningRatio 1m %4.2f%%, 3m %4.2f%%, 6m %4.2f%%, 1y %4.2f%%",
+		e.Nav, e.ExpenseRatio, e.Perf1Mon, e.Perf3Mon, e.Perf6Mon, e.Perf12Mon)
 }
