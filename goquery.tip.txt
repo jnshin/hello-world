@@ -7,7 +7,20 @@ goquery는 jQuery syntax를 그대로 사용한다.
 * HTMLTag 선택 : $('img')     $('table')  처럼 tag 이름을 직접사용
 * CSS class 이름 선택 : $('.test')  '.'을 시작으로 class 를 지정. class는 non-unique
 * ID 선택 : $('#userid')  '#' 을 시작으로 id 를 지정. id는 page에 unique한 특징 있음.
-* 연속된 특성 나열 : $('table .my_class')  table 요소 아래 딸린 요소 중 my_class 를 지정
+* Attribute 검색 : [summary='test 정보']
+* 연속된 특성 나열 : $('table .classname')  table 요소 아래 딸린 요소 중 my_class 를 지정
                    $('div [name="myName"]') <div> 요소 중 name="myName" 인 것을 지정
 
-참조 : http://hyeonstorage.tistory.com/1
+선택영역을 한번에 줄이려하지 말고 selection을 만들고 그 안에서 다시 조건을 추가하는 방법이 쉽다.
+예를들어...
+
+doc.Find("[summary='펀드보수 정보']").Find("td").Each(func(i int, s *goquery.Selection) {
+...
+})
+
+라하면, 먼저 attribute 중 summary="펀드보수 정보"인 영역을 선택하게되고, 그 안에서 다시 Tag <td>를 검색한다.
+검색된 것들별로 anonymous function을 호출해 준다.  때에 따라선 Each() 호출 안에서 선별해 data를 얻을지 결정할 수 있다.
+
+제가 작성해 본 sample code로 Naver stock 에서 ETF의 주요 정보를 가져오는 코드입니다. FetchEtf() 참조하세요.
+
+https://github.com/jnshin/hello-world/blob/master/stock/etf/ETF.go
