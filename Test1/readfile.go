@@ -9,7 +9,7 @@ import (
 	"strconv"
 )
 
-// 팁
+// 팁                    
 
 // 파일 사용 후 filesystem에서 자동 삭제되도록 하려면, file 생성 후 handle을 남긴 상태에서 unlink 해 버리면 된다.
 // memory 에만 상주시키려면, linux는 tmpfs를, windows는 FILE_ATTRIBUTE_TEMPORARY  를 고려해 보자.

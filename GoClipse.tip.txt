@@ -1,0 +1,27 @@
+Eclipse 내에서 Go 사용하기. 
+
+주의 : 개인적인 기록이며 여기 기술된 내용이 항상 최선이고 맞다는 보장은 없다. 
+
+1. Eclipse download 및 GoClipse 설치. 
+
+  https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
+  
+  시간을 내서 userguide를 읽어보자. 
+  
+  https://github.com/GoClipse/goclipse/blob/master/documentation/UserGuide.md
+  
+2. Project의 시작. 
+
+  GIT repository와 동일하게 위치를 설정해 주는 것이 맞아 보인다. userguide에서는 src 아래 subfolder로 지정할 것을 가이드한다.  GOPATH 밖을 지정할 경우 GOPATH에 추가하라한다.
+   
+  
+3. Eclipse 내 UTF-8 환경 설정. 
+
+Project / Properties / Resource / Text file encoding  --> UTF-8 설정 후 'apply' 클릭
+
+'.txt'를 포함해 확장자 별로 encoding을 설정할 필요 있다. 아래 위치에 확장자 별로 등록해 준다. 
+
+Windows / Preferences / General / Content Types / Text / *.txt 선택 후 Default encoding에 'UTF-8' 입력.
+text file이 다른 확장자를 사용한다면 이 곳에 추가 등록.  
+
+

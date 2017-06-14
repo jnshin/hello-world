@@ -24,6 +24,6 @@ func main() {
 	}
 
 	fmt.Printf("Symbol : %s, name : %s, price %f",
-		stock.Symbol, stock.Name, stock.History
+		stock.Symbol, stock.Name, stock.History, 
 		stock.Price)
 }

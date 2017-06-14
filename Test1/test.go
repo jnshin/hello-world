@@ -1,14 +1,12 @@
-package main
+package Test1
 
 import (
 	"fmt"
 	"os"
-	"log"
 )
 
 func main() {
 	osTmpDir := os.TempDir()
 	fmt.Println("OS default temp is " + osTmpDir)
-
-	logging.
+	fmt.Println("test")
 }

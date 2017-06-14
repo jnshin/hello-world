@@ -45,11 +45,11 @@ func DumpUrl(target string, t transform.Transformer, queryString string) {
 		return
 	}
 
-	doc.Find("dl").Find("dt").EachWithBreak(func(i int, s *goquery.Selection) {
+	doc.Find("dl").Find("dt").Each(func(i int, s *goquery.Selection) {
 		band, _ := s.Html()
 		glog.Info("", i, " - ", band)
 		fmt.Printf("%d - %s\n", i, band)
-	})
+	})   
 
 	glog.Flush()
 	return
