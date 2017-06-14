@@ -1,23 +1,24 @@
-Inkjet printer head는 쉽게 dry해지고 이 문제로 출력에 여러 문제가 생긴다. 막힐 경우 최악의 경우 head를 교체해야한다. 
+Inkjet printer head는 쉽게 dry해지고 이 문제로 출력에 여러 문제가 생긴다. 막힐 경우 최악의 경우 head를 교체해야한다.
 이를 예방하기 위해 몇 일 간격으로 적절한 출력이 발생해야하는데 서비스센터의 권장은 1주에 1페이지면 충분하다 권장한다.
-매번 복사 기능등을 이용해 출력을 유도할 수 있겠지만, 자동으로 test page를 출력하는 기능이 있다면 손쉬울 것. 
+매번 복사 기능등을 이용해 출력을 유도할 수 있겠지만, 자동으로 test page를 출력하는 기능이 있다면 손쉬울 것.
 
-일부 유사한 기능이 있긴하지만 golang의 학습을 목적으로 util을 만들어 본다. 
-지금 당장은 task scheduler에 mspaint를 등록해 4일에 한번 color test page를 출력하도록 했다. 
+일부 유사한 기능이 있긴하지만 golang의 학습을 목적으로 util을 만들어 본다.
+지금 당장은 task scheduler에 mspaint를 등록해 4일에 한번 color test page를 출력하도록 했다.
 
-기본 기능. 
+기본 기능.
 
 - 설정한 시간마다 printer test page를 printer로 출력.
 
 설정 값 관리
 
-- 설정 값 파일은 json으로 특정 위치에 저장. 
+- 설정 값 파일은 json으로 특정 위치에 저장.
 - 설정 값 파일이 존재하지 않으면 첫 실행시 자동 생성.
-- test page의 image file은 필요한 경우 파운로드 하도록 함. 
+- test page의 image file은 필요한 경우 파운로드 하도록 함.
   http://wooworl.com/wp-content/uploads/2017/04/color-test-page-with-colour-inkjet-printer-test-page.jpg
-  
+
   download 는 http://wooworl.com/tag/color-test-page-for-inkjet-printer/
-  
+
+  아니면 작은 물방울을 가득 찍고, 출력한 정보를 text 로 넣는 것도 방법일 듯.
 
 출력실패시 처리
 
@@ -26,23 +27,23 @@ Inkjet printer head는 쉽게 dry해지고 이 문제로 출력에 여러 문제
 - 실패한 task는 자동 삭제.
 - 실패 후 10분 간격으로 재시도. notification은 시간 간격으로 발생.
 
-interval 
+interval
 
 - 출력 성공한 시점에 다음 실행 시점을 결정.
-   next run이 변경되면 바로 configuration에 저장해야.  
-- printer queue에 작업이 들어오면 interval을 다시 시작할까? 
-   이렇게하려면 daemon으로 동작해야... 
+   next run이 변경되면 바로 configuration에 저장해야.
+- printer queue에 작업이 들어오면 interval을 다시 시작할까?
+   이렇게하려면 daemon으로 동작해야...
    daemon으로 동작시키려면 https://github.com/jasonlvhit/gocron
-   그런데 흑백으로만 출력하면, color를 사용하도록 강제출력해야하는데....    
+   그런데 흑백으로만 출력하면, color를 사용하도록 강제출력해야하는데....
 
-- windows의 printer queue monitoring. 
+- windows의 printer queue monitoring.
 
-https://msdn.microsoft.com/en-us/library/aa394288(v=vs.85).aspx 정보참조. 
-이 기능을 이용하면 out of paper 또는 다른 출력이 발생하는지 관찰이 가능할 것. 
+https://msdn.microsoft.com/en-us/library/aa394288(v=vs.85).aspx 정보참조.
+이 기능을 이용하면 out of paper 또는 다른 출력이 발생하는지 관찰이 가능할 것.
 TotalPagesPrinted - 총 출력 page 수 (color여부는 표기 없음)
-OutOfPaperErrors - 종이 없음 에러 발생 수 
+OutOfPaperErrors - 종이 없음 에러 발생 수
 
-그냥 WMIC 이용해서 할까? 
+그냥 WMIC 이용해서 할까?
 
 printer 목록 가져오기 : wmic printer get name
 출력장수 가져오기 : wmic path Win32_PerfFormattedData_Spooler_PrintQueue where "Name='printer name'" get TotalPagesPrinted /format:LIST
