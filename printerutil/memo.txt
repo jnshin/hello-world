@@ -8,17 +8,27 @@ Inkjet printer head는 쉽게 dry해지고 이 문제로 출력에 여러 문제
 기본 기능.
 
 - 설정한 시간마다 printer test page를 printer로 출력.
+- printer로 전송된 page가 0이 아닌 경우 next run 을 재설정하는 기능. 옵션 제어 (흑백 출력만 하는 경우를 대응하기 위해 default disabled)
+- 'Next run'에 도달하더라도 출력이 진행 중이라면 10분 단위로 출력 연기
+- 'Out of paper', 'power off' 대응
+
+- test page
+  test page는 불특정 색으로 작은 물방울을 찍도록 구성. 그 위에 program 기본 정보 및 설정 값 포함 시킴.
+  뭔가 가치있는 내용을 포함시켜도 좋을 듯... 날씨라던가, news title 이라던가... international하게 공감되는...
+  사용자 설정에 따라 특정 파일을 출력하는 기능도 추가.
+
+- 다수의 printer에 대해서는 어떻게 처리 -> LTP, USB 및 network attach된 printer는 모두 처리 대상으로 간주. shared printer는 검토.
+
+- daemon 으로 동작하니, 죽으라 명령하는 방법 필요. 또는 restart난 configuration을 다시 읽어 들이는 등....
+
+- printer spool queue가 존재하면서 printer에 error가 있는 경우 notification 하는 기능. default disable 상태. parameter로 enable.
+  대부분의 printer는 error 발생하면 자동으로 에러를 보여주니까...
+
 
 설정 값 관리
 
-- 설정 값 파일은 json으로 특정 위치에 저장.
+- 설정 값 파일은 ini file로 관리하자.  https://github.com/go-ini/ini
 - 설정 값 파일이 존재하지 않으면 첫 실행시 자동 생성.
-- test page의 image file은 필요한 경우 파운로드 하도록 함.
-  http://wooworl.com/wp-content/uploads/2017/04/color-test-page-with-colour-inkjet-printer-test-page.jpg
-
-  download 는 http://wooworl.com/tag/color-test-page-for-inkjet-printer/
-
-  아니면 작은 물방울을 가득 찍고, 출력한 정보를 text 로 넣는 것도 방법일 듯.
 
 출력실패시 처리
 
@@ -26,6 +36,8 @@ Inkjet printer head는 쉽게 dry해지고 이 문제로 출력에 여러 문제
    https://github.com/0xAX/notificator
 - 실패한 task는 자동 삭제.
 - 실패 후 10분 간격으로 재시도. notification은 시간 간격으로 발생.
+  확인 필요 : out of paper 상황에서 spool의 task를 cancel해도 불완전한 출력이 발생하지 않나? 종이 낭비?
+- 그런데 에러가 발생하면 어차피 driver가 에러를 보여주니 별도 notification 해야하나?
 
 interval
 
@@ -35,6 +47,7 @@ interval
    이렇게하려면 daemon으로 동작해야...
    daemon으로 동작시키려면 https://github.com/jasonlvhit/gocron
    그런데 흑백으로만 출력하면, color를 사용하도록 강제출력해야하는데....
+   이 기능은 default disable 상태가 맞겠다.
 
 - windows의 printer queue monitoring.
 
@@ -46,7 +59,11 @@ OutOfPaperErrors - 종이 없음 에러 발생 수
 그냥 WMIC 이용해서 할까?
 
 printer 목록 가져오기 : wmic printer get name
+printer status 조회 : wmic printer where "Name='36FMFD3-MP4054'" get /format:list
 출력장수 가져오기 : wmic path Win32_PerfFormattedData_Spooler_PrintQueue where "Name='printer name'" get TotalPagesPrinted /format:LIST
 
 wmic path Win32_PerfFormattedData_Spooler_PrintQueue where "Name='36FMFD3-MP4054'" get TotalPagesPrinted
 36FMFD3-MP4054
+
+'Out of paper' 상태라고 해서 작업을 cancel하면 어차피 printer에 spool된 데이터는 출력이 될 것이고 결과적으로 종이 낭비가 발생할지도.
+Event 발생하면 그냥 notification만 보내주는 것이 맞겠다.
