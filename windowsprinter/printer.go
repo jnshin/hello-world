@@ -11,7 +11,7 @@ import (
 	"github.com/golang/glog"
 )
 
-// Printer monitoring 설정 값.
+// PrinterMonitoringConfig : Printer monitoring 설정 값.
 type PrinterMonitoringConfig struct {
 	// printer name. system에 조회되는 printer 이름
 	PrinterName string
@@ -24,7 +24,7 @@ type PrinterMonitoringConfig struct {
 	EnableTimerReset bool
 }
 
-// Printer status
+// Printer : printer status
 // 프린터 상태를 확인하려면 이 값을 참조.
 type Printer struct {
 	// Printer name
@@ -42,8 +42,8 @@ type Printer struct {
 	PortName []string
 }
 
-// description for printer.attributes
-var printerAttrDesc = map[int]string{
+// PrinterAttrDesc : description for printer.attributes
+var PrinterAttrDesc = map[int]string{
 	// bitmap of attributes for a windows-based printing device
 	0x1:    "queued - Print jobs are buffered and queued",
 	0x2:    "Direct - Document to be sent directly to the printer",
@@ -60,8 +60,8 @@ var printerAttrDesc = map[int]string{
 	0x1000: "Allow only raw data type jobs to be SpoolEnabled",
 	0x2000: "Published - Published in the network directory service"}
 
-// description for printer.ExtendedDetectedErrorState
-var printerExtErrStateDesc = map[int]string{
+// PrinterExtErrStateDesc : description for printer.ExtendedDetectedErrorState
+var PrinterExtErrStateDesc = map[int]string{
 	// Report standard error information
 	0:  "Unknown",
 	1:  "Other",
@@ -80,7 +80,7 @@ var printerExtErrStateDesc = map[int]string{
 	14: "Out of memory",
 	15: "Server Unknown"}
 
-var extendedPrinterStatusDesc = map[int]string{
+var ExtendedPrinterStatusDesc = map[int]string{
 	// Status information for a printer that is different from information specified in the availability property
 	1:  "Other",
 	2:  "Unknown",
@@ -101,12 +101,13 @@ var extendedPrinterStatusDesc = map[int]string{
 	17: "I/O Active",
 	18: "Manual Feed"}
 
-// GetStatus : it returns new printer instance.
+// GetStatus : it returns updated printer instance.
 func (p *Printer) GetStatus() *Printer {
 
 	// printer 껍데기 생성
-	t := NewPrinter(p.Name)
-	if t = getPrinterStatus(t); t == nil {
+	// t := NewPrinter(p.Name)
+	var t *Printer
+	if t = GetPrinterStatus(p); t == nil {
 		glog.Error("Unable to get printer status : ", p.Name)
 		return nil
 	}
@@ -145,19 +146,43 @@ func getWMICExitCode(err error) int {
 	return errcode
 }
 
-func convStrToInt(mp map[string]string, key string) int {
+// convStrToInt : map에서 key에 해당하는 slice string을 찾아 int로 변환한다.
+// 3rd arguemnt : optional argument로 string slice의 index로 대상을 지정한다.
+//                지정하지 않는 경우 [0]에 기록된 값을 사용.
+func convStrToInt(mp map[string][]string, key string, sidx ...int) int {
 
-	rv, err := strconv.Atoi(mp[key])
-	if err != nil {
-		glog.Fatal("Atoi failed. ", key, "-", mp[key])
+	ss := mp[key]
+	var (
+		rv  int
+		err error
+	)
+	if len(ss) == 1 {
+		rv, err = strconv.Atoi(mp[key][0])
+		if err != nil {
+			glog.Fatal("Atoi failed. ", key, "-", mp[key])
+		}
+	} else if len(ss) == 0 {
+		return 0
+	} else {
+		// 다중 값이 들어 있는 slice 인 경우
+		var idx int
+		if len(sidx) > 0 {
+			// slice index를 option에 명시한 경우
+			idx = sidx[0]
+		} else {
+			// slice index를 명시하지 않은 경우 첫번째 값을 사용
+			idx = 0
+		}
+		rv, err = strconv.Atoi(mp[key][idx])
+
 	}
 
 	return rv
 }
 
-// getPrinterStatus : 실제 wmic 명령으로 windows 상태 값을 생성한다.
+// GetPrinterStatus : 실제 wmic 명령으로 windows 상태 값을 생성한다.
 // caller는 argument p 에 name을 채워서 넘겨야한다.
-func getPrinterStatus(p *Printer) *Printer {
+func GetPrinterStatus(p *Printer) *Printer {
 
 	if len(p.Name) == 0 {
 		glog.Error("Missing printer name")
@@ -174,12 +199,42 @@ func getPrinterStatus(p *Printer) *Printer {
 	p.ExtendedDetectedErrorState = convStrToInt(pm, "ExtendedDetectedErrorState")
 	p.ExtendedPrinterStatus = convStrToInt(pm, "ExtendedPrinterStatus")
 	// portname은 ',' 구분자로 다중 값이 올 수 있다. 보통은 1개 값만 존재.
-	p.PortName = strings.Split(pm["PortName"], ",")
+	p.PortName = strings.Split(pm["PortName"][0], ",")
 
 	return p
 }
 
-func queryWMI(args ...string) map[string]string {
+// GetPrinterList : Printer object list를 반환한다.
+// 반환되는 object는 초기화되지 않은 상태로 이름만을 포함하고 있다.
+func GetPrinterList(init bool) [](*Printer) {
+
+	// wmic printer get name
+	pl := queryWMI("printer", "get", "name", "/format:list")
+
+	// fmt.Printf("pl : %v\n", pl)
+
+	var plv [](*Printer)
+	for _, nl := range pl["Name"] {
+		p := new(Printer)
+		p.Name = nl
+		if init {
+			p = p.GetStatus()
+		}
+		plv = append(plv, p)
+	}
+
+	return nil
+}
+
+// queryWMI : WMI 실행 결과를 반환한다.
+// 결과는 항상 /format:list 형태로 처리되기 위해 마지막에 '/format:list'를 포함시켜야한다.
+// 대상 object가 여럿인 경우 반드시 where 를 추가해 하나만을 query할 것을 권장한다.
+// 반환 값은 string slice로 하나의 key에 여러 값을 반환할 수 있다.
+// wmic 명령의 output 중 빈줄은 무시된다.
+// 예제 :
+// wmic printer get name /format:list
+// 이 명령은 여러 printer 에 대해 name field만을 반환한다. printer 목록을 얻는 것이 목적이라면 ok.
+func queryWMI(args ...string) map[string][]string {
 
 	var errmsg string
 	// wmic printer where "Name='36FMFD3-MP4054'" get /format:list
@@ -219,7 +274,7 @@ func queryWMI(args ...string) map[string]string {
 	// wmic 명령의 결과가 공백인 경우.
 	// 잘못된 대상에대해 실행하는 경우 등.
 	if len(strings.TrimSpace(out.String())) == 0 {
-		glog.V(2).Info("흠... 결과 값이 공백이야.")
+		glog.V(2).Info("흠... 결과 값 전체가 공백이다")
 		return nil
 	} else {
 		glog.V(2).Info("[%v]\n", strings.TrimSpace(out.String()))
@@ -227,7 +282,7 @@ func queryWMI(args ...string) map[string]string {
 	r := bufio.NewReader(bytes.NewBuffer(out.Bytes()))
 	// r := bufio.NewReader(out)
 
-	rv := make(map[string]string)
+	rv := make(map[string][]string)
 
 	var (
 		line []byte
@@ -252,7 +307,8 @@ func queryWMI(args ...string) map[string]string {
 
 		glog.V(2).Info("%s - %s\n", tokens[0], tokens[1])
 		if len(tokens[1]) > 0 {
-			rv[tokens[0]] = tokens[1]
+			// value가 존재하는 경우만 map에 추가.
+			rv[tokens[0]] = append(rv[tokens[0]], tokens[1])
 		}
 
 	} // End of for loop.

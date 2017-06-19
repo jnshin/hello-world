@@ -12,10 +12,12 @@ Inkjet printer head는 쉽게 dry해지고 이 문제로 출력에 여러 문제
 - 'Next run'에 도달하더라도 출력이 진행 중이라면 10분 단위로 출력 연기
 - 'Out of paper', 'power off' 대응
 
-- test page
+- test page 출력 내용.
   test page는 불특정 색으로 작은 물방울을 찍도록 구성. 그 위에 program 기본 정보 및 설정 값 포함 시킴.
   뭔가 가치있는 내용을 포함시켜도 좋을 듯... 날씨라던가, news title 이라던가... international하게 공감되는...
   사용자 설정에 따라 특정 파일을 출력하는 기능도 추가.
+  random image를 넣는 것도 방법 : https://github.com/hardikbagdi/go-unsplash 를 이용해 특정 keyword의 random image를 넣을 수 있겠다.
+  unsplash를 이용할 경우 photo에 대한 라이센스 문제도 자동 해결될 듯. (https://unsplash.com/license)
 
 - 다수의 printer에 대해서는 어떻게 처리 -> LTP, USB 및 network attach된 printer는 모두 처리 대상으로 간주. shared printer는 검토.
 

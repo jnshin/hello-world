@@ -11,7 +11,7 @@ func TestGetStatus(t *testing.T) {
 	p := NewPrinter("36FMFD3-MP4054")
 	p = p.GetStatus()
 	if p == nil {
-		fmt.Println("printer is nil.")
+		t.Error("printer is nil.")
 	} else {
 		fmt.Println("OK.")
 
@@ -24,6 +24,17 @@ func TestGetStatus(t *testing.T) {
 	if p == nil {
 		fmt.Println("OK")
 	} else {
-		fmt.Println("ERROR!")
+		t.Error("ERROR!")
+	}
+}
+
+func TestPrinterList(t *testing.T) {
+	pl := GetPrinterList(true)
+	if len(pl) == 0 {
+		t.Error("Error! : GetPrinterList returns nil!")
+	}
+
+	for _, printer := range pl {
+		fmt.Printf("Printer : %v\n", printer.Name)
 	}
 }
