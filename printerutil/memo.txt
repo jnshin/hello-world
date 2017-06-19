@@ -50,6 +50,9 @@ interval
    daemon으로 동작시키려면 https://github.com/jasonlvhit/gocron
    그런데 흑백으로만 출력하면, color를 사용하도록 강제출력해야하는데....
    이 기능은 default disable 상태가 맞겠다.
+- 2017.06.17
+  user login과 관계 없이 동작하려면 windows service로 등록하는 것도 방법일 것
+  예를 들어 https://github.com/btcsuite/winsvc 에 mgr 같은 것을 이용하면..?
 
 - windows의 printer queue monitoring.
 
