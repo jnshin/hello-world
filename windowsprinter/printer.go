@@ -30,6 +30,7 @@ type Printer struct {
 	// Printer name
 	Name       string
 	Attributes int
+	IsDefault  bool
 	// Printer error information
 	// 그런데 이 값은 좀 부정확해 보인다. 평상시 0.
 	DetectedErrorState         int
@@ -108,7 +109,8 @@ func (p *Printer) GetStatus() *Printer {
 	// t := NewPrinter(p.Name)
 	var t *Printer
 	if t = GetPrinterStatus(p); t == nil {
-		glog.Error("Unable to get printer status : ", p.Name)
+		glog.Warning("Unable to get printer status : ", p.Name)
+		glog.Flush()
 		return nil
 	}
 	glog.Flush()
@@ -129,7 +131,11 @@ func (p *Printer) GetPrinterQueueStatus() *PrinterQueueStatus {
 // NewPrinter : 새로운 printer instance를 생성.
 func NewPrinter(name string) *Printer {
 	var t Printer
-	t.Name = name
+	if len(name) == 0 {
+		glog.Fatal("Printer name is null.")
+	} else {
+		t.Name = name
+	}
 	return &t
 }
 
@@ -189,12 +195,23 @@ func GetPrinterStatus(p *Printer) *Printer {
 		return nil
 	}
 
+	glog.Info("GetPrinterStatus : printer name : " + p.Name)
+	glog.Info("WMIC Command : [wmic printer where Name='" + p.Name + "' get /format:list")
+
 	pm := queryWMI("printer", "where", "Name='"+p.Name+"'", "get", "/format:list")
 	if pm == nil {
+		glog.Info("queryWMIC returns nil.")
 		return nil
 	}
 
 	p.Attributes = convStrToInt(pm, "Attributes")
+
+	if strings.Compare(pm["Default"][0], "TRUE") == 0 {
+		p.IsDefault = true
+		glog.Info("" + p.Name + " is default printer.")
+	} else {
+		p.IsDefault = false
+	}
 	p.DetectedErrorState = convStrToInt(pm, "DetectedErrorState")
 	p.ExtendedDetectedErrorState = convStrToInt(pm, "ExtendedDetectedErrorState")
 	p.ExtendedPrinterStatus = convStrToInt(pm, "ExtendedPrinterStatus")
@@ -212,18 +229,33 @@ func GetPrinterList(init bool) [](*Printer) {
 	pl := queryWMI("printer", "get", "name", "/format:list")
 
 	// fmt.Printf("pl : %v\n", pl)
+	glog.Info("queryWMI() returns " + strconv.Itoa(len(pl)) + " records")
+	if len(pl) == 0 {
+		glog.Info("queryWMI() returns empty map")
+		return nil
+	}
 
 	var plv [](*Printer)
 	for _, nl := range pl["Name"] {
 		p := new(Printer)
+		glog.Info("Returned printer name : ", nl)
+
+		// ToDo : 2017.09.04
+		// 여기서 local language로 작명된 printer는 무시하도록 해 보자.
+
 		p.Name = nl
 		if init {
 			p = p.GetStatus()
+			if p == nil {
+				glog.Warning("GetStatus returns nil! printer " + nl + " will be skipped!")
+			}
 		}
-		plv = append(plv, p)
+		if p != nil {
+			plv = append(plv, p)
+		}
 	}
 
-	return nil
+	return plv
 }
 
 // queryWMI : WMI 실행 결과를 반환한다.
@@ -237,6 +269,13 @@ func GetPrinterList(init bool) [](*Printer) {
 func queryWMI(args ...string) map[string][]string {
 
 	var errmsg string
+
+	glog.Info("WMIC : argument dump.")
+	for idx, arg := range args {
+		glog.Info("WMIC arg : " + strconv.Itoa(idx) + ", " + arg + "]")
+	}
+	glog.Info("WMIC : Done.")
+
 	// wmic printer where "Name='36FMFD3-MP4054'" get /format:list
 	// cmd := exec.Command("wmic", "printer", "where", "Name='"+p.Name+"'", "get", "/format:list")
 	cmd := exec.Command("wmic", args...)
@@ -268,13 +307,14 @@ func queryWMI(args ...string) map[string][]string {
 		return nil
 	} // cmd.run() 에러 처리 끝.
 
-	glog.V(3).Info("output [" + out.String() + "]")
+	glog.Info("output [" + out.String() + "]")
 	// fmt.Println("output [" + out.String() + "]")
 
 	// wmic 명령의 결과가 공백인 경우.
 	// 잘못된 대상에대해 실행하는 경우 등.
 	if len(strings.TrimSpace(out.String())) == 0 {
-		glog.V(2).Info("흠... 결과 값 전체가 공백이다")
+		glog.Info("WMIC returns empty string.")
+		glog.Flush()
 		return nil
 	} else {
 		glog.V(2).Info("[%v]\n", strings.TrimSpace(out.String()))
@@ -308,10 +348,42 @@ func queryWMI(args ...string) map[string][]string {
 		glog.V(2).Info("%s - %s\n", tokens[0], tokens[1])
 		if len(tokens[1]) > 0 {
 			// value가 존재하는 경우만 map에 추가.
+			glog.Info("New record creation : ", tokens[0], "=", tokens[1])
 			rv[tokens[0]] = append(rv[tokens[0]], tokens[1])
+			/*  이 방식은 하나의 data set에만 사용해야 한다.
+			          예를 들어
+								name=A
+								name=B
+								name=C
+								이런 식으로 같은 key에 여러 value 이던가,
+								name=A
+								attr1=A1
+								attr2=A2
+								이런 식으로 A라는 것과 그것에 연관된 값만 나와야 한다.
+
+								그렇지 않고 여러 set의 data가 함께 나온다면 매우 혼란스러원진다.
+								name=A
+								attr1=A1
+								attr2=A2
+								name=B
+								attr2=B2
+								name=C
+								attr1=C1
+								attr2=C2
+
+								위와 같이 데이터가 생성되면
+								name={A,B,C}
+								attr1={A1,C1}
+								attr2={A2,B2,C2}
+								로 생성될 것. 그렇다면 data를 사용하는 client는 B1이 없다는 것을
+								알 발법이 없다.
+			*/
 		}
 
 	} // End of for loop.
+
+	glog.Info("WMIC Done. Returns normal")
+	glog.Flush()
 
 	return rv
 
