@@ -62,4 +62,6 @@ func TestPrinterList(t *testing.T) {
 			fmt.Printf("Printer : %v\n", printer.Name)
 		}
 	}
+
+	fmt.Printf("Done - TestPrinterList\n")
 }
