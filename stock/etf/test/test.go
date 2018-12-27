@@ -31,6 +31,8 @@ func main() {
 
 	/* HTTP proxy 설정 마지막 줄 */
 
+	/* test 20181227 */
+
 	kodex기계조선, err := etf.NewEtf(102960)
 	if err != nil {
 		fmt.Println("" + err.Error())
