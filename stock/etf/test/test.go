@@ -3,7 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
+	"net/http"
+	"net/url"
+	"os"
 
+	"github.com/golang/glog"
 	"github.com/jnshin/hello-world/stock/etf"
 )
 
@@ -18,16 +22,14 @@ func main() {
 
 		*************************************************************/
 
-	/*
-		proxyUrl, err := url.Parse("http://www-proxy.jp.oracle.com:80")
-		if err != nil {
-			glog.Errorf("Error : proxyUrl 생성 실패. %v\n", err.Error())
-			glog.Flush()
-			os.Exit(1)
-		}
+	proxyUrl, err := url.Parse("http://www-proxy.jp.oracle.com:80")
+	if err != nil {
+		glog.Errorf("Error : proxyUrl 생성 실패. %v\n", err.Error())
+		glog.Flush()
+		os.Exit(1)
+	}
 
-		http.DefaultTransport = &http.Transport{Proxy: http.ProxyURL(proxyUrl)}
-	*/
+	http.DefaultTransport = &http.Transport{Proxy: http.ProxyURL(proxyUrl)}
 
 	/* HTTP proxy 설정 마지막 줄 */
 

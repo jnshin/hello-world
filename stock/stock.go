@@ -26,3 +26,5 @@ type StockI interface {
 func (e *Stock) ToString() string {
 	return fmt.Sprintf("%s(%d, %s) : 현재가 %v원, 가격폭 %v~%v 상하한[%v,%v] 거래량 %v주\n", e.Name, e.Code, e.Market, e.Price, e.DayLow, e.DayHigh, e.DayLowerLimit, e.DayUpperLimit, e.Volume)
 }
+
+
