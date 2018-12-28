@@ -1,5 +1,11 @@
 package stock
 
+/*
+import (
+	"fmt"
+)
+*/
+
 type MarketProvider interface {
 
 	// getQuote : 조회하고자하는 stock을 생성해 전달 
@@ -16,6 +22,8 @@ type MarketProvider interface {
 	isDelayedQuote() (delay int)
 
 	// providerName : data provider 이름을 반환
-	providerName() (name String)
+	providerName() (name string)
+
+	newfunc()
 
 }
