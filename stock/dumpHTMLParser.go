@@ -28,6 +28,7 @@ func dumpDocByGoquery(url string) {
 
 }
 
+// FetchURL 은 구현 중
 func FetchURL(url string, code string) {
 
 }
@@ -49,7 +50,7 @@ func dumpToken(url string) {
 
 	doc := html.NewTokenizer(resp.Body)
 
-	found_price_summary := false
+	foundPriceSummary := false
 
 	for tokenType := doc.Next(); tokenType != html.ErrorToken; tokenType = doc.Next() {
 
@@ -64,10 +65,10 @@ func dumpToken(url string) {
 				tagAttr, tagAttrVal, moreAttr := doc.TagAttr()
 				fmt.Printf("%s - tagName[%s], tagAttr[%s], tagAttrVal[%s] moreAttr[%v]\n", tokenType, tagName, tagAttr, tagAttrVal, moreAttr)
 				if string(tagAttr) == "class" && string(tagAttrVal) == "type2 type_tax" {
-					if found_price_summary != true {
-						found_price_summary = true
+					if foundPriceSummary != true {
+						foundPriceSummary = true
 					} else {
-						log.Fatal(fmt.Errorf("Internal Error! : There are multiple 'class=type2 type_tax'\n"))
+						log.Fatal(fmt.Errorf("internal error! : there are multiple 'class=type2 type_tax'"))
 					}
 					fmt.Println("Bingo!")
 
@@ -92,8 +93,8 @@ func dumpToken(url string) {
 
 func fetchTHTD(doc *html.Tokenizer, thStr string) (thVal, tdVal string) {
 
-	var foundTH bool = false
-	var foundTD bool = false
+	var foundTH = false
+	var foundTD = false
 
 	fmt.Printf("Enter fetchTHTD. target[%s] [%v][%v]\n", thStr, thVal, thVal)
 
