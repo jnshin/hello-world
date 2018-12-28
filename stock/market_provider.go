@@ -23,6 +23,6 @@ type MarketProvider interface {
 	// isDelayedQuote : quote 조회에 delay가 존재하면 지연되는 초를 반환
 	isDelayedQuote() (delay int)
 
-	// providerName : data provider 이름을 반환
+	// providerName : data provider 이름을 반환 한다.
 	providerName() (name string)
 }
